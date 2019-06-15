@@ -9,7 +9,7 @@ class Router(object):
     def __init__( self ):
 
         #@todo: replace if necesary the project name
-        self.rootFolder = 'report-dbahn'
+        self.rootFolder = 'dbahn-report'
         
         #@todo: change the routes to the absolute project directory path
         self.root = 'D:\PRO-CODE\_CODE\\' + self.rootFolder +  '\\'

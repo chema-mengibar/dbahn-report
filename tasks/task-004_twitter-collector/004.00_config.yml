@@ -1,0 +1,13 @@
+description: Example tasks
+version: 1.0
+docu:
+  twitter_app: https://developer.twitter.com/en.html
+params:
+  unique: vandal_1
+  query_words: '#Vandalismusschaeden OR #BahnDown OR @DB_Info'
+  query_max_tweets: 100000
+  query_lang: 'de'
+target:
+  dir: task-004_twitter-collector/
+  file: tweets_$UNIQUE$_$TIME$.json
+  route: universe

@@ -50,25 +50,17 @@ target:
 description ...
 ## Issues
 
-# task 002
-description ...
+# task-002_station-travels
+Extract the data from the web for the gived target Station  
+See in the \data\master\task-001_stations-filtered the lists of the stations.  
 
-see in the \data\master\task-001_stations-filtered the lists of the stations.
-
-| Station         | evaNumber     |
+| Station City    | evaNumber     |
 | :-------------  | :-------------|
 | Koblenz         | 8000206       |
 | Köln            | 8000207       |
 | Bonn            | 8000044       |
 
 ## Issues
-
-# task 003
-description ...
-## Issues
-
-
-
 
 #### Api dbahn  in task-001_stations-collector
 - https://data.deutschebahn.com/dataset?groups=apis
@@ -81,3 +73,42 @@ description ...
 - https://stackoverflow.com/questions/36003023/json-dump-failing-with-must-be-unicode-not-str-typeerror
 
 - https://stackoverflow.com/questions/24475393/unicodedecodeerror-ascii-codec-cant-decode-byte-0xc3-in-position-23-ordinal
+
+
+# task-003_km-distance-stations
+Get the distance between two points using the Google API - https://developers.google.com/maps/documentation/distance-matrix/intro#travel_modes
+Needs a Google API KEY
+
+# task-004_twitter-collector
+Get Tweets filtered by Keywords.
+Needs Twitter APP Access: https://developer.twitter.com/en.html
+The access keys are defined in the **config.secret.yml** ( This file is in the git ignore list ).
+The search parameters are in the task config definned:
+- query_words (str): '#Vandalismusschaeden OR #BahnDown OR @DB_Info'  
+- query_max_tweets (int): 100000
+- query_lang (str): de en
+
+
+## Capture Tweets - Stream Methods
+There are two approach to get the tweets:
+### Stream Method 1
+The first method in Code creates a file with object, NON SEPARATED by comma. Also after the capture is needed to modify the file content.
+The words search is array structured: [ 'a','b','c']
+```
+{ tweetsdata... }
+{ tweetsdata... }
+```
+
+### Stream Method 2
+The second Method in Code creates a right formed json file, but seems to be mor restricted.  
+The words search is string structured with conditions: 'a OR b OR c'  
+
+## Issues
+
+### Encoding ascii
+```
+>> 'ascii' codec can't encode character u'\xf6'
+```
+```
+ json.dump( tweets , outfile , indent=2, ensure_ascii=True)
+```

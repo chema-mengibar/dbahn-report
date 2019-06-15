@@ -1,0 +1,23 @@
+options:
+  increment_version: false
+description: Get the distance between two points using the GOOGLE - Distance Matrix API 
+comments:
+  docu:  https://developers.google.com/maps/documentation/distance-matrix/intro#travel_modes
+  comment: Needed APPI Key
+version: 1.0
+params:
+  api_key: your_key
+  station_a_evanumber: 8000044
+  station_b_evanumber: 8000207
+sources:
+  source_stations:
+    dir: task-001_stations-filtered/
+    files: 
+    - stations_filtered-all.json
+    - stations_filtered-main.json
+    - stations_filtered-nrw.json
+    route: master
+target:
+  dir: task-003_km-distance-stations/
+  file: distance_$SUFFIX$.json
+  route: universe
