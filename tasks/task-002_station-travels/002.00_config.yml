@@ -1,0 +1,19 @@
+options:
+  increment_version: false
+description: Ge the travels for a station
+version: 1.0
+params:
+  station_number: 8000044
+  station_name: Bonn
+sources:
+  source_name:
+    dir: task-001_stations-filtered/
+    files: 
+    - stations_filtered-all.json
+    - stations_filtered-main.json
+    - stations_filtered-nrw.json
+    route: master
+target:
+  dir: task-002_station-travels/
+  file: travels_$STATION$_$DATE$.log
+  route: universe

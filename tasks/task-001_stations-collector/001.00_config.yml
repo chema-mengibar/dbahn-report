@@ -1,0 +1,12 @@
+options:
+  increment_version: false
+description: Collect the information of all the stations in Germany
+version: 1.0
+params:
+  bearer: ef948a12c4051590327bc2ea5f889c70
+sources:
+  none: empty
+target:
+  dir: task-001_stations-collector/
+  file: stations_$UNIQUE$.json
+  route: universe

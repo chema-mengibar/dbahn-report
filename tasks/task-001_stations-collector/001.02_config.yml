@@ -1,0 +1,17 @@
+options:
+  increment_version: false
+description: Filter the stations-data, define in params the filter type
+version: 1.0
+params:
+  selectedFilterKey: 
+    value: all
+    options: nrw, main, all
+sources:
+  source_stations:
+    dir: task-001_stations-join/
+    file: stations_joined.json
+    route: universe
+target:
+  dir: task-001_stations-filtered/
+  file: stations_filtered-$UNIQUE$.json
+  route: master

@@ -1,0 +1,4113 @@
+{
+    "total": 5363, 
+    "limit": 100, 
+    "result": [
+        {
+            "category": 3, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "M\u00fcnchen-Hirschgarten", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.519430816, 
+                            48.143490012
+                        ]
+                    }, 
+                    "rilIdentifier": "MMHG", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "M\u00fcnchen", 
+                "street": "Friedenheimer Br\u00fccke", 
+                "zipcode": "80639"
+            }, 
+            "szentrale": {
+                "number": 38, 
+                "name": "M\u00fcnchen Hbf", 
+                "publicPhoneNumber": "089/13081055"
+            }, 
+            "number": 8154, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.519245, 
+                            48.14354
+                        ]
+                    }, 
+                    "number": 8004179
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 250, 
+                "name": "M\u00fcnchen"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 4, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Mannheim ARENA / Maimarkt", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": false, 
+                    "rilIdentifier": "RMR A", 
+                    "hasSteamPermission": true
+                }, 
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.5159084, 
+                            49.459974584
+                        ]
+                    }, 
+                    "rilIdentifier": "RMSM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Mannheim", 
+                "street": "Xaver-Fuhr-Stra\u00dfe", 
+                "zipcode": "68163"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8155, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.516358, 
+                            49.459786
+                        ]
+                    }, 
+                    "number": 8003841
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Kiel-Hassee CITTIPARK", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsverbund Schleswig-Holstein GmbH", 
+                "name": "NAH.SH"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.09998338, 
+                            54.308662789
+                        ]
+                    }, 
+                    "rilIdentifier": "AKH", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Kiel-Hassee", 
+                "street": "Altenrade", 
+                "zipcode": "24113"
+            }, 
+            "szentrale": {
+                "number": 3, 
+                "name": "Kiel Hbf", 
+                "publicPhoneNumber": "0431-2479-1055"
+            }, 
+            "number": 8156, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.HambSchleswHolstein@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Schleswig Holstein"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Schleswig-Holstein", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.098596, 
+                            54.310569
+                        ]
+                    }, 
+                    "number": 8003474
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB N", 
+                "number": 3, 
+                "name": "RB Nord"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 4, 
+                "name": "Schleswig-Holstein"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": true
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Nagold-Steinberg", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.732692189, 
+                            48.541924527
+                        ]
+                    }, 
+                    "rilIdentifier": "TNAS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Nagold", 
+                "street": "G\u00e4urandsteige 12", 
+                "zipcode": "72202"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8157, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Karlsruhe"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.732643, 
+                            48.542015
+                        ]
+                    }, 
+                    "number": 8004195
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 204, 
+                "name": "Karlsruhe"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Ueckerm\u00fcnde Stadthafen", 
+            "aufgabentraeger": {
+                "shortName": "Verkehrsgesellschaft Mecklenburg-Vorpommern mbH", 
+                "name": "VMV"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            14.05243924, 
+                            53.736732895
+                        ]
+                    }, 
+                    "rilIdentifier": "WUMH", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Ueckerm\u00fcnde", 
+                "street": "Am Hafen", 
+                "zipcode": "17373"
+            }, 
+            "szentrale": {
+                "number": 69, 
+                "name": "Rostock Hbf", 
+                "publicPhoneNumber": "0381/2401055"
+            }, 
+            "number": 8162, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.MecklenbVorpommern@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Stralsund"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Mecklenburg-Vorpommern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            14.052233, 
+                            53.736202
+                        ]
+                    }, 
+                    "number": 8013156
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB O", 
+                "number": 1, 
+                "name": "RB Ost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 15, 
+                "name": "Rostock"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Eschelbronn", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.867848778, 
+                            49.323918142
+                        ]
+                    }, 
+                    "rilIdentifier": "RESN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Eschelbronn", 
+                "street": "Bahnhofstra\u00dfe 46", 
+                "zipcode": "74927"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8163, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mannheim"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.867796, 
+                            49.323982
+                        ]
+                    }, 
+                    "number": 8007443
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Neidenstein", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.890160452, 
+                            49.320340262
+                        ]
+                    }, 
+                    "rilIdentifier": "RNST", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Neidenstein", 
+                "street": "Bahnhofstra\u00dfe 83", 
+                "zipcode": "74933"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8164, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mannheim"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.890152, 
+                            49.320237
+                        ]
+                    }, 
+                    "number": 8007441
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Waibstadt", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.91934435, 
+                            49.300897699
+                        ]
+                    }, 
+                    "rilIdentifier": "RWB", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Waibstadt", 
+                "street": "Neidensteiner Stra\u00dfe 2", 
+                "zipcode": "74915"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8165, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mannheim"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.919354, 
+                            49.300941
+                        ]
+                    }, 
+                    "number": 8007442
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Neckarbischofsheim Nord", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.942252168, 
+                            49.307082832
+                        ]
+                    }, 
+                    "rilIdentifier": "RNHF", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Waibstadt", 
+                "street": "Helmstatter Stra\u00dfe 45", 
+                "zipcode": "74915"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8166, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mannheim"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.942274, 
+                            49.307098
+                        ]
+                    }, 
+                    "number": 8077434
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Helmstadt (Baden)", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.974837562, 
+                            49.319907393
+                        ]
+                    }, 
+                    "rilIdentifier": "RHM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Helmstadt-Bargen", 
+                "street": "Bahnhofstra\u00dfe 7", 
+                "zipcode": "74921"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8167, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mannheim"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.97513, 
+                            49.320089
+                        ]
+                    }, 
+                    "number": 8007444
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Aglasterhausen", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.990865514, 
+                            49.350000832
+                        ]
+                    }, 
+                    "rilIdentifier": "RAG", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Aglasterhausen", 
+                "street": "Bahnhofstra\u00dfe 40", 
+                "zipcode": "74858"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8168, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mannheim"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.990838, 
+                            49.350097
+                        ]
+                    }, 
+                    "number": 8007445
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 5, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Ahrensburg-Gartenholz", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsverbund Schleswig-Holstein GmbH", 
+                "name": "NAH.SH"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.251913776, 
+                            53.689053142
+                        ]
+                    }, 
+                    "rilIdentifier": "AAHG", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Ahrensburg", 
+                "street": "Gartenholz 130", 
+                "zipcode": "22926"
+            }, 
+            "szentrale": {
+                "number": 3, 
+                "name": "Kiel Hbf", 
+                "publicPhoneNumber": "0431-2479-1055"
+            }, 
+            "number": 8169, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.HambSchleswHolstein@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Schleswig Holstein"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Schleswig-Holstein", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.251786, 
+                            53.688482
+                        ]
+                    }, 
+                    "number": 8000480
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB N", 
+                "number": 3, 
+                "name": "RB Nord"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 4, 
+                "name": "Schleswig-Holstein"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "W\u00f6rth (Rhein)-Mozartstra\u00dfe", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.252197057, 
+                            49.05499812
+                        ]
+                    }, 
+                    "rilIdentifier": "RWRD", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "W\u00f6rth (Rhein)", 
+                "street": "Mozartstra\u00dfe 21", 
+                "zipcode": "76744"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8171, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.251944, 
+                            49.055109
+                        ]
+                    }, 
+                    "number": 8006536
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Petersaurach Nord", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "NPEN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Petersaurach", 
+                "street": "Gleizendorfer Stra\u00dfe 100", 
+                "zipcode": "91580"
+            }, 
+            "szentrale": {
+                "number": 42, 
+                "name": "N\u00fcrnberg Hbf", 
+                "publicPhoneNumber": "0911/2191055"
+            }, 
+            "number": 8193, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.739097, 
+                            49.318401
+                        ]
+                    }, 
+                    "number": 8004797
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 228, 
+                "name": "N\u00fcrnberg"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Happurg", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.468934595, 
+                            49.500063683
+                        ]
+                    }, 
+                    "rilIdentifier": "NHAP", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Happurg", 
+                "street": "Hohenst\u00e4dter Stra\u00dfe 100", 
+                "zipcode": "91230"
+            }, 
+            "szentrale": {
+                "number": 42, 
+                "name": "N\u00fcrnberg Hbf", 
+                "publicPhoneNumber": "0911/2191055"
+            }, 
+            "number": 8194, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.468355, 
+                            49.500052
+                        ]
+                    }, 
+                    "number": 8002578
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 228, 
+                "name": "N\u00fcrnberg"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Neustadt (Aisch) Mitte", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.609723995, 
+                            49.574290927
+                        ]
+                    }, 
+                    "rilIdentifier": "NNAM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Neustadt a. d. Aisch", 
+                "street": "Comeniusstar\u00dfe 1a", 
+                "zipcode": "91413"
+            }, 
+            "szentrale": {
+                "number": 42, 
+                "name": "N\u00fcrnberg Hbf", 
+                "publicPhoneNumber": "0911/2191055"
+            }, 
+            "number": 8195, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.609306, 
+                            49.574202
+                        ]
+                    }, 
+                    "number": 8004336
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 228, 
+                "name": "N\u00fcrnberg"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Schwalbach Nord", 
+            "aufgabentraeger": {
+                "shortName": "Rhein-Main-Verkehrsverbund GmbH", 
+                "name": "RMV"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.534647081, 
+                            50.159838526
+                        ]
+                    }, 
+                    "rilIdentifier": "FSLN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Schwalbach a Ts", 
+                "street": "Am Kronberger Hang", 
+                "zipcode": "65824"
+            }, 
+            "szentrale": {
+                "number": 45, 
+                "name": "Frankfurt (Main) Hbf", 
+                "publicPhoneNumber": "069/2651055"
+            }, 
+            "number": 8197, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Hessen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.534777, 
+                            50.15986
+                        ]
+                    }, 
+                    "number": 8005456
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 161, 
+                "name": "Frankfurt a. M."
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Stambach", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.456701916, 
+                            49.239093762
+                        ]
+                    }, 
+                    "rilIdentifier": "SSTB", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Contwig-Stambach", 
+                "street": "Am H\u00f6fchen 2", 
+                "zipcode": "66497"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8198, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.456623, 
+                            49.239171
+                        ]
+                    }, 
+                    "number": 8005673
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Neustadt S\u00fcd", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.157010646, 
+                            49.341259198
+                        ]
+                    }, 
+                    "rilIdentifier": "RND", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Neustadt", 
+                "street": "Lachenerstra\u00dfe 59", 
+                "zipcode": "67434"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8199, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.157061, 
+                            49.341553
+                        ]
+                    }, 
+                    "number": 8004306
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Hauenstein Mitte", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.849482628, 
+                            49.199199612
+                        ]
+                    }, 
+                    "rilIdentifier": "SHAM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Hauenstein", 
+                "street": "Falkenburgstra\u00dfe 8", 
+                "zipcode": "76846"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8200, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.849564, 
+                            49.199169
+                        ]
+                    }, 
+                    "number": 8002648
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Bellheim Am M\u00fchlbuckel", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.297566872, 
+                            49.192626535
+                        ]
+                    }, 
+                    "rilIdentifier": "RBLN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Bellheim", 
+                "street": "Am M\u00fchlbuckel 10", 
+                "zipcode": "76756"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8201, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.297626, 
+                            49.192639
+                        ]
+                    }, 
+                    "number": 8000861
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "R\u00fclzheim Freizeitzentrum", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.279341964, 
+                            49.15158743
+                        ]
+                    }, 
+                    "rilIdentifier": "RRZD", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "R\u00fclzheim", 
+                "street": "Alte M\u00fchlgasse", 
+                "zipcode": "76761"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8202, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.279365, 
+                            49.15159
+                        ]
+                    }, 
+                    "number": 8005214
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Rheinzabern Rappengasse", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.273220437, 
+                            49.114307641
+                        ]
+                    }, 
+                    "rilIdentifier": "RRZM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Rheinzabern", 
+                "street": "Rappengasse", 
+                "zipcode": "76464"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8203, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.273291, 
+                            49.114836
+                        ]
+                    }, 
+                    "number": 8005071
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Rheinzabern Alte R\u00f6merstra\u00dfe", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.273016925, 
+                            49.109614031
+                        ]
+                    }, 
+                    "rilIdentifier": "RRZU", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Rheinzabern", 
+                "street": "Plantage", 
+                "zipcode": "76464"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8204, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.273057, 
+                            49.109366
+                        ]
+                    }, 
+                    "number": 8005072
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "W\u00f6rth Z\u00fcgelstra\u00dfe", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": false, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.261962829, 
+                            49.052755295
+                        ]
+                    }, 
+                    "rilIdentifier": "RWRZ", 
+                    "hasSteamPermission": true
+                }, 
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "RWRG", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "W\u00f6rth (Rhein)", 
+                "street": "Z\u00fcgelstra\u00dfe 50", 
+                "zipcode": "76744"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8205, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.262363, 
+                            49.052992
+                        ]
+                    }, 
+                    "number": 8006531
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Germersheim S\u00fcd/Nolte", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.373419508, 
+                            49.208274192
+                        ]
+                    }, 
+                    "rilIdentifier": "RGES", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Germersheim", 
+                "street": "Im Roth 1", 
+                "zipcode": "76726"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8206, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.373755, 
+                            49.208341
+                        ]
+                    }, 
+                    "number": 8002241
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 4, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Frankenthal S\u00fcd", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "RFTS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Frankenthal", 
+                "street": "Hammstra\u00dfe 9", 
+                "zipcode": "67622"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8210, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.349596, 
+                            49.522901
+                        ]
+                    }, 
+                    "number": 8002025
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Kleingem\u00fcnden", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.687938033, 
+                            50.062996178
+                        ]
+                    }, 
+                    "rilIdentifier": "NKGM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "no", 
+            "mailingAddress": {
+                "city": "Gem\u00fcnden", 
+                "street": "Hofweg", 
+                "zipcode": "97737"
+            }, 
+            "szentrale": {
+                "number": 44, 
+                "name": "W\u00fcrzburg Hbf", 
+                "publicPhoneNumber": "0931/341055"
+            }, 
+            "number": 8212, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.687704, 
+                            50.062991
+                        ]
+                    }, 
+                    "number": 8003329
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 236, 
+                "name": "W\u00fcrzburg"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Calbe (Saale) Stadt", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsservice Sachsen-Anhalt GmbH", 
+                "name": "NASA"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "LCBS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Calbe (Saale)", 
+                "street": "Salzer Stra\u00dfe", 
+                "zipcode": "39240"
+            }, 
+            "szentrale": {
+                "number": 59, 
+                "name": "Magdeburg Hbf", 
+                "publicPhoneNumber": "0391/5491055"
+            }, 
+            "number": 8234, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen-Anhalt", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.776342, 
+                            51.913879
+                        ]
+                    }, 
+                    "number": 8011323
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 77, 
+                "name": "Magdeburg"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Ro\u00dfbach", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsservice Sachsen-Anhalt GmbH", 
+                "name": "NASA"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.780274596, 
+                            51.167318379
+                        ]
+                    }, 
+                    "rilIdentifier": "UNRO", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Naumburg (Saale)", 
+                "zipcode": "06618"
+            }, 
+            "szentrale": {
+                "number": 55, 
+                "name": "Leipzig Hbf", 
+                "publicPhoneNumber": "0341/9681055"
+            }, 
+            "number": 8236, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen-Anhalt", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.77953, 
+                            51.170649
+                        ]
+                    }, 
+                    "number": 8012429
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 73, 
+                "name": "Halle (Saale)"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Ludwigsfelde-Struveshof", 
+            "aufgabentraeger": {
+                "shortName": "Verkehrsverbund Berlin-Brandenburg GmbH f\u00fcr Brandenburg", 
+                "name": "VBB"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            13.23213809, 
+                            52.317186966
+                        ]
+                    }, 
+                    "rilIdentifier": "BSTH", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Ludwigsfelde", 
+                "street": "Landstr L79/ Potsdamerstr", 
+                "zipcode": "14974"
+            }, 
+            "szentrale": {
+                "number": 67, 
+                "name": "Potsdam", 
+                "publicPhoneNumber": "0331/2357520"
+            }, 
+            "number": 8240, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BerlinBrandenburg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Potsdam"
+            }, 
+            "hasPublicFacilities": true, 
+            "federalState": "Brandenburg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            13.232152, 
+                            52.317181
+                        ]
+                    }, 
+                    "number": 8012253
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB O", 
+                "number": 1, 
+                "name": "RB Ost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 107, 
+                "name": "Potsdam"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Annweiler-Sarnstall", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.937232962, 
+                            49.208559441
+                        ]
+                    }, 
+                    "rilIdentifier": "RANS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Annweiler am Trifels", 
+                "street": "Wasgaustra\u00dfe 7", 
+                "zipcode": "76855"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8242, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.937192, 
+                            49.208725
+                        ]
+                    }, 
+                    "number": 8005257
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Blumberg-Rehhahn", 
+            "aufgabentraeger": {
+                "shortName": "Verkehrsverbund Berlin-Brandenburg GmbH f\u00fcr Brandenburg", 
+                "name": "VBB"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            13.592033756, 
+                            52.596732685
+                        ]
+                    }, 
+                    "rilIdentifier": "BAHH", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Ahrensfelde", 
+                "street": "Henry-Kruse Str.", 
+                "zipcode": "16356"
+            }, 
+            "szentrale": {
+                "number": 73, 
+                "name": "Berlin Ostbahnhof", 
+                "publicPhoneNumber": "030/2971055"
+            }, 
+            "number": 8243, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.BerlinBrandenburg@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Potsdam"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Brandenburg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            13.591948, 
+                            52.596621
+                        ]
+                    }, 
+                    "number": 8011064
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB O", 
+                "number": 1, 
+                "name": "RB Ost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 107, 
+                "name": "Potsdam"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 5, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Germersheim Mitte/Rhein", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": false, 
+                    "rilIdentifier": "RGEH", 
+                    "hasSteamPermission": true
+                }, 
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.379319404, 
+                            49.219800586
+                        ]
+                    }, 
+                    "rilIdentifier": "RGEM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Germersheim", 
+                "street": "Rudolf-von Habsburg-Stra\u00dfe 17", 
+                "zipcode": "76726"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8244, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.379305, 
+                            49.219876
+                        ]
+                    }, 
+                    "number": 8002239
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Freilassing-Hofham", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "MFLH", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Freilassing", 
+                "street": "Hofhamer Str. ", 
+                "zipcode": "83395"
+            }, 
+            "szentrale": {
+                "number": 38, 
+                "name": "M\u00fcnchen Hbf", 
+                "publicPhoneNumber": "089/13081055"
+            }, 
+            "number": 8245, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.968067, 
+                            47.831449
+                        ]
+                    }, 
+                    "number": 8002085
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 253, 
+                "name": "Rosenheim"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "M\u00fcnster-Roxel", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Nahverkehr Westfalen-Lippe", 
+                "name": "NWL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "EMSR", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "M\u00fcnster", 
+                "street": "Pienersallee", 
+                "zipcode": "48161"
+            }, 
+            "szentrale": {
+                "number": 17, 
+                "name": "Essen Hbf", 
+                "publicPhoneNumber": "0201/1821055"
+            }, 
+            "number": 8247, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.NordrheinWestfalen@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Essen"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Nordrhein-Westfalen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.526126, 
+                            51.946411
+                        ]
+                    }, 
+                    "number": 8004190
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB W", 
+                "number": 4, 
+                "name": "RB West"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 56, 
+                "name": "M\u00fcnster (Westf)"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Coesfeld Schulzentrum", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Nahverkehr Westfalen-Lippe", 
+                "name": "NWL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.166308133, 
+                            51.951558243
+                        ]
+                    }, 
+                    "rilIdentifier": "ECFS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Coesfeld", 
+                "street": "Darfelder Weg", 
+                "zipcode": "48653"
+            }, 
+            "szentrale": {
+                "number": 17, 
+                "name": "Essen Hbf", 
+                "publicPhoneNumber": "0201/1821055"
+            }, 
+            "number": 8248, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.NordrheinWestfalen@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Essen"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Nordrhein-Westfalen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.165836, 
+                            51.951269
+                        ]
+                    }, 
+                    "number": 8001343
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB W", 
+                "number": 4, 
+                "name": "RB West"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 56, 
+                "name": "M\u00fcnster (Westf)"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Warendorf-Einen-M\u00fcssingen", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Nahverkehr Westfalen-Lippe", 
+                "name": "NWL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "EWEM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Warendorf", 
+                "street": "August-Wessing-Damm", 
+                "zipcode": "48231"
+            }, 
+            "szentrale": {
+                "number": 17, 
+                "name": "Essen Hbf", 
+                "publicPhoneNumber": "0201/1821055"
+            }, 
+            "number": 8249, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Nordrhein-Westfalen", 
+            "evaNumbers": [], 
+            "regionalbereich": {
+                "shortName": "RB W", 
+                "number": 4, 
+                "name": "RB West"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 56, 
+                "name": "M\u00fcnster (Westf)"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Rheinbach R\u00f6merkanal", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Nahverkehr Rheinland GmbH", 
+                "name": "NVR"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            6.967850652, 
+                            50.628284086
+                        ]
+                    }, 
+                    "rilIdentifier": "KRBL", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Rheinbach", 
+                "street": "Siemensstra\u00dfe", 
+                "zipcode": "53359"
+            }, 
+            "szentrale": {
+                "number": 19, 
+                "name": "K\u00f6ln Hbf", 
+                "publicPhoneNumber": "0221/1411055"
+            }, 
+            "number": 8250, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Nordrhein-Westfalen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            6.967911, 
+                            50.628284
+                        ]
+                    }, 
+                    "number": 8005057
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB W", 
+                "number": 4, 
+                "name": "RB West"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 52, 
+                "name": "K\u00f6ln"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Brilon Stadt", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Nahverkehr Westfalen-Lippe", 
+                "name": "NWL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.575448298, 
+                            51.399320528
+                        ]
+                    }, 
+                    "rilIdentifier": "EBRS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Brilon", 
+                "street": "Bahnhofstra\u00dfe", 
+                "zipcode": "59929"
+            }, 
+            "szentrale": {
+                "number": 16, 
+                "name": "D\u00fcsseldorf Hbf", 
+                "publicPhoneNumber": "0211/36801888"
+            }, 
+            "number": 8251, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": true, 
+            "federalState": "Nordrhein-Westfalen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.575287, 
+                            51.39906
+                        ]
+                    }, 
+                    "number": 8001182
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB W", 
+                "number": 4, 
+                "name": "RB West"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 49, 
+                "name": "Hagen"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Dienheim", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Dienheim", 
+                "street": "Am Sportplatz 4", 
+                "zipcode": "55276"
+            }, 
+            "szentrale": {
+                "number": 24, 
+                "name": "Mainz Hbf", 
+                "publicPhoneNumber": "06131/151055"
+            }, 
+            "number": 8252, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Mainz"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.357103, 
+                            49.841003
+                        ]
+                    }, 
+                    "number": 8001448
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 184, 
+                "name": "Mainz"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Grafling-Arzting", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.973302696, 
+                            48.889709042
+                        ]
+                    }, 
+                    "rilIdentifier": "NGFA", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Grafling-Arzting", 
+                "street": "Hoch\u00e4ckerweg 8", 
+                "zipcode": "94539"
+            }, 
+            "szentrale": {
+                "number": 42, 
+                "name": "N\u00fcrnberg Hbf", 
+                "publicPhoneNumber": "0911/2191055"
+            }, 
+            "number": 8253, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.973322, 
+                            48.889645
+                        ]
+                    }, 
+                    "number": 8002349
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 231, 
+                "name": "Regensburg"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 4, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Koblenz Stadtmitte", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz Nord", 
+                "name": "ZVRP Nord"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.590099513, 
+                            50.358140906
+                        ]
+                    }, 
+                    "rilIdentifier": "KKSM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Koblenz", 
+                "street": "Pastor-Metzdorf-Weg", 
+                "zipcode": "56068"
+            }, 
+            "szentrale": {
+                "number": 24, 
+                "name": "Mainz Hbf", 
+                "publicPhoneNumber": "06131/151055"
+            }, 
+            "number": 8258, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            7.589985, 
+                            50.357714
+                        ]
+                    }, 
+                    "number": 8003341
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 181, 
+                "name": "Koblenz"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": true
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Pfungstadt", 
+            "aufgabentraeger": {
+                "shortName": "Rhein-Main-Verkehrsverbund GmbH", 
+                "name": "RMV"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.607276412, 
+                            49.806258169
+                        ]
+                    }, 
+                    "rilIdentifier": "FPU", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Pfungstadt", 
+                "street": "Eberst\u00e4dter Strasse", 
+                "zipcode": "64319"
+            }, 
+            "szentrale": {
+                "number": 45, 
+                "name": "Frankfurt (Main) Hbf", 
+                "publicPhoneNumber": "069/2651055"
+            }, 
+            "number": 8264, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.Hessen@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Darmstadt"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Hessen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.607033, 
+                            49.806223
+                        ]
+                    }, 
+                    "number": 8004816
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 157, 
+                "name": "Darmstadt"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Oldenburg-Wechloy", 
+            "aufgabentraeger": {
+                "shortName": "Landesnahverkehrsgesellschaft Niedersachsen mbH", 
+                "name": "LNVG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.1784408, 
+                            53.1518712
+                        ]
+                    }, 
+                    "rilIdentifier": "HOLW", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Oldenburg (Oldb)", 
+                "street": "B\u00e4ckeplacken 1", 
+                "zipcode": "26129"
+            }, 
+            "szentrale": {
+                "number": 6, 
+                "name": "Bremen Hbf", 
+                "publicPhoneNumber": "0421-221-4780"
+            }, 
+            "number": 8265, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Niedersachsen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.1784408, 
+                            53.1518712
+                        ]
+                    }, 
+                    "number": 8004670
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB N", 
+                "number": 3, 
+                "name": "RB Nord"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 21, 
+                "name": "Bremen / Osnabr\u00fcck"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "L\u00fcbeck Hochschulstadtteil", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsverbund Schleswig-Holstein GmbH", 
+                "name": "NAH.SH"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.689011553, 
+                            53.830537903
+                        ]
+                    }, 
+                    "rilIdentifier": "ALHS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "L\u00fcbeck", 
+                "street": "Sch\u00e4renweg", 
+                "zipcode": "23552"
+            }, 
+            "szentrale": {
+                "number": 3, 
+                "name": "Kiel Hbf", 
+                "publicPhoneNumber": "0431-2479-1055"
+            }, 
+            "number": 8266, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Schleswig-Holstein", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.688902, 
+                            53.830983
+                        ]
+                    }, 
+                    "number": 8003785
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB N", 
+                "number": 3, 
+                "name": "RB Nord"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 4, 
+                "name": "Schleswig-Holstein"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 5, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Neckarsulm Nord", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.228615771, 
+                            49.201720268
+                        ]
+                    }, 
+                    "rilIdentifier": "TNSN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Neckarsulm", 
+                "street": "Hezenbergstra\u00dfe", 
+                "zipcode": "74172"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8270, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.228679, 
+                            49.202096
+                        ]
+                    }, 
+                    "number": 8004238
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Neckarsulm Mitte", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.222657811, 
+                            49.193032544
+                        ]
+                    }, 
+                    "rilIdentifier": "TN  M", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Neckarsulm", 
+                "street": "Gottlieb-Daimler-Stra\u00dfe 38/40", 
+                "zipcode": "74172"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8271, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.222943, 
+                            49.19341
+                        ]
+                    }, 
+                    "number": 8004232
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Bad Wimpfen im Tal", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "TBWT", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "no", 
+            "mailingAddress": {
+                "city": "Bad Wimpfen", 
+                "street": "Heilbronner Stra\u00dfe", 
+                "zipcode": "74206"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8273, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.187046, 
+                            49.229848
+                        ]
+                    }, 
+                    "number": 8000706
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Bad Rappenau Kurpark", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsgesellschaft Baden-W\u00fcrttemberg mbH", 
+                "name": "NVBW"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "RBPK", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Bad Rappenau", 
+                "street": "Am Lichtturm, im Kurpark", 
+                "zipcode": "74906"
+            }, 
+            "szentrale": {
+                "number": 32, 
+                "name": "Mannheim Hbf", 
+                "publicPhoneNumber": "0621/8301055"
+            }, 
+            "number": 8274, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Baden-W\u00fcrttemberg", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.113526, 
+                            49.240371
+                        ]
+                    }, 
+                    "number": 8000777
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SW", 
+                "number": 6, 
+                "name": "RB S\u00fcdwest"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 202, 
+                "name": "Mannheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Leipzig Nord", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband f\u00fcr den Nahverkehrsraum Leipzig", 
+                "name": "ZVNL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "LLN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Leipzig", 
+                "street": "Mockauer Str.", 
+                "zipcode": "04357"
+            }, 
+            "szentrale": {
+                "number": 55, 
+                "name": "Leipzig Hbf", 
+                "publicPhoneNumber": "0341/9681055"
+            }, 
+            "number": 8275, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.40106, 
+                            51.364162
+                        ]
+                    }, 
+                    "number": 8012196
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 125, 
+                "name": "Leipzig"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 5, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Mei\u00dfen Altstadt", 
+            "aufgabentraeger": {
+                "shortName": "Verkehrsbund Oberelbe GmbH", 
+                "name": "VVO"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            13.473314487, 
+                            51.159240117
+                        ]
+                    }, 
+                    "rilIdentifier": "DMEA", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Mei\u00dfen", 
+                "street": "Neumarkt 5", 
+                "zipcode": "01662"
+            }, 
+            "szentrale": {
+                "number": 53, 
+                "name": "Dresden", 
+                "publicPhoneNumber": "0351/4611055"
+            }, 
+            "number": 8277, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            13.473401, 
+                            51.159303
+                        ]
+                    }, 
+                    "number": 8012318
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 118, 
+                "name": "Dresden"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Graben (Lechfeld) Gewerbepark", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.852355808, 
+                            48.19904388
+                        ]
+                    }, 
+                    "rilIdentifier": "MGRL", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Graben", 
+                "street": "Amazonstra\u00dfe 5", 
+                "zipcode": "86836"
+            }, 
+            "szentrale": {
+                "number": 38, 
+                "name": "M\u00fcnchen Hbf", 
+                "publicPhoneNumber": "089/13081055"
+            }, 
+            "number": 8278, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.SuedBayern@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Augsburg"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.852411, 
+                            48.199148
+                        ]
+                    }, 
+                    "number": 8002346
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 237, 
+                "name": "Augsburg"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Burbach Mitte", 
+            "aufgabentraeger": {
+                "shortName": "Verkehrsverbund-Gesellschaft Saar mbH", 
+                "name": "VGS"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            6.945166909, 
+                            49.243635481
+                        ]
+                    }, 
+                    "rilIdentifier": "SSHI", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Saarbr\u00fccken", 
+                "street": "Ecke Gerhardstra\u00dfe/Marktsteig", 
+                "zipcode": "66115"
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8279, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Saarland", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            6.944932, 
+                            49.243611
+                        ]
+                    }, 
+                    "number": 8001302
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 189, 
+                "name": "Saarbr\u00fccken"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Bielefeld-Senne", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Nahverkehr Westfalen-Lippe", 
+                "name": "NWL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.520471149, 
+                            51.96500149
+                        ]
+                    }, 
+                    "rilIdentifier": "EBIS", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Bielefeld", 
+                "street": "Windelsbleicher Stra\u00dfe", 
+                "zipcode": "33647"
+            }, 
+            "szentrale": {
+                "number": 11, 
+                "name": "Bielefeld Hbf", 
+                "publicPhoneNumber": "0521/7851055"
+            }, 
+            "number": 8281, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.NordrheinWestfalen@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Dortmund"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Nordrhein-Westfalen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.520335, 
+                            51.965118
+                        ]
+                    }, 
+                    "number": 8000956
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB W", 
+                "number": 4, 
+                "name": "RB West"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 39, 
+                "name": "Bielefeld"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Landau (Pfalz) S\u00fcd", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband Schienenpersonennahverkehr Rheinland-Pfalz S\u00fcd", 
+                "name": "ZPNV S\u00fcd"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.114225034, 
+                            49.189050907
+                        ]
+                    }, 
+                    "rilIdentifier": "RLAD", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Landau (Pfalz)", 
+                "street": "Wei\u00dfenburgerstra\u00dfe 10", 
+                "zipcode": "76829 "
+            }, 
+            "szentrale": {
+                "number": 25, 
+                "name": "Saarbr\u00fccken Hbf", 
+                "publicPhoneNumber": "0681/3082623"
+            }, 
+            "number": 8283, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.RhldPfalzSaarland@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Kaiserslautern"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Rheinland-Pfalz", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            8.113836, 
+                            49.189514
+                        ]
+                    }, 
+                    "number": 8003507
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB M", 
+                "number": 5, 
+                "name": "RB Mitte"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 180, 
+                "name": "Kaiserslautern"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Baar-Ebenhausen", 
+            "aufgabentraeger": {
+                "shortName": "Bayerische Eisenbahngesellschaft mbH", 
+                "name": "BEG"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.461123122, 
+                            48.673654626
+                        ]
+                    }, 
+                    "rilIdentifier": "MBAE", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Baar-Ebenhausen", 
+                "street": "Am Bahnhof", 
+                "zipcode": "85107"
+            }, 
+            "szentrale": {
+                "number": 38, 
+                "name": "M\u00fcnchen Hbf", 
+                "publicPhoneNumber": "089/13081055"
+            }, 
+            "number": 8284, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Bayern", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.460929, 
+                            48.674463
+                        ]
+                    }, 
+                    "number": 8000678
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB S", 
+                "number": 7, 
+                "name": "RB S\u00fcd"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 253, 
+                "name": "Rosenheim"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Reinsdorf (b Nebra)", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsservice Sachsen-Anhalt GmbH", 
+                "name": "NASA"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.602627241, 
+                            51.297776535
+                        ]
+                    }, 
+                    "rilIdentifier": "URDN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Nebra (Unstrut)", 
+                "zipcode": "06642"
+            }, 
+            "szentrale": {
+                "number": 55, 
+                "name": "Leipzig Hbf", 
+                "publicPhoneNumber": "0341/9681055"
+            }, 
+            "number": 8285, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.SachsenAnhalt@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Halle(S)"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen-Anhalt", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            11.601464, 
+                            51.297997
+                        ]
+                    }, 
+                    "number": 8012743
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 73, 
+                "name": "Halle (Saale)"
+            }, 
+            "hasLocalPublicTransport": false, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Plauen (Vogtl) Mitte", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband \u00d6PNV Vogtland", 
+                "name": "ZVV"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "DPM", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Plauen (Vogtl)", 
+                "street": "Reichenbacher Stra\u00dfe", 
+                "zipcode": "08527"
+            }, 
+            "szentrale": {
+                "number": 55, 
+                "name": "Leipzig Hbf", 
+                "publicPhoneNumber": "0341/9681055"
+            }, 
+            "number": 8292, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.14778, 
+                            50.493584
+                        ]
+                    }, 
+                    "number": 8017442
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 115, 
+                "name": "Chemnitz"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Pulsnitz S\u00fcd", 
+            "aufgabentraeger": {
+                "shortName": "Verkehrsbund Oberelbe GmbH", 
+                "name": "VVO"
+            }, 
+            "ril100Identifiers": [], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Pulsnitz", 
+                "street": "Dresdner Stra\u00dfe 11a", 
+                "zipcode": "01896"
+            }, 
+            "szentrale": {
+                "number": 53, 
+                "name": "Dresden", 
+                "publicPhoneNumber": "0351/4611055"
+            }, 
+            "number": 8294, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen", 
+            "evaNumbers": [], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 118, 
+                "name": "Dresden"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 7, 
+            "hasLockerSystem": false, 
+            "hasParking": true, 
+            "name": "Bredenbek", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsverbund Schleswig-Holstein GmbH", 
+                "name": "NAH.SH"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "rilIdentifier": "ABRB", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": true, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Bredenbek", 
+                "street": "Rolfsh\u00f6mer Weg", 
+                "zipcode": "24796"
+            }, 
+            "szentrale": {
+                "number": 3, 
+                "name": "Kiel Hbf", 
+                "publicPhoneNumber": "0431-2479-1055"
+            }, 
+            "number": 8295, 
+            "hasMobilityService": "no", 
+            "timeTableOffice": {
+                "email": "DBS.Fahrplan.HambSchleswHolstein@deutschebahn.com", 
+                "name": "Bahnhofsmanagement Schleswig Holstein"
+            }, 
+            "hasPublicFacilities": false, 
+            "federalState": "Schleswig-Holstein", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            9.867004, 
+                            54.315112
+                        ]
+                    }, 
+                    "number": 8001136
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB N", 
+                "number": 3, 
+                "name": "RB Nord"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 4, 
+                "name": "Schleswig-Holstein"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 5, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "Markkleeberg Nord", 
+            "aufgabentraeger": {
+                "shortName": "Zweckverband f\u00fcr den Nahverkehrsraum Leipzig", 
+                "name": "ZVNL"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.372068468, 
+                            51.287883466
+                        ]
+                    }, 
+                    "rilIdentifier": "LMAN", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "Markkleeberg", 
+                "street": "Breitscheidstr. 1", 
+                "zipcode": "04416"
+            }, 
+            "szentrale": {
+                "number": 55, 
+                "name": "Leipzig Hbf", 
+                "publicPhoneNumber": "0341/9681055"
+            }, 
+            "number": 8297, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Sachsen", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            12.372204, 
+                            51.287998
+                        ]
+                    }, 
+                    "number": 8012304
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB SO", 
+                "number": 2, 
+                "name": "RB S\u00fcdost"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 125, 
+                "name": "Leipzig"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }, 
+        {
+            "category": 6, 
+            "hasLockerSystem": false, 
+            "hasParking": false, 
+            "name": "L\u00fcbeck D\u00e4nischburg IKEA", 
+            "aufgabentraeger": {
+                "shortName": "Nahverkehrsverbund Schleswig-Holstein GmbH", 
+                "name": "NAH.SH"
+            }, 
+            "ril100Identifiers": [
+                {
+                    "isMain": false, 
+                    "rilIdentifier": "ALD A", 
+                    "hasSteamPermission": true
+                }, 
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.73773677, 
+                            53.911375192
+                        ]
+                    }, 
+                    "rilIdentifier": "ALD", 
+                    "hasSteamPermission": true
+                }
+            ], 
+            "hasBicycleParking": false, 
+            "hasSteplessAccess": "yes", 
+            "mailingAddress": {
+                "city": "L\u00fcbeck", 
+                "street": "Sch\u00e4ferkamp", 
+                "zipcode": "23569"
+            }, 
+            "szentrale": {
+                "number": 3, 
+                "name": "Kiel Hbf", 
+                "publicPhoneNumber": "0431-2479-1055"
+            }, 
+            "number": 8300, 
+            "hasMobilityService": "no", 
+            "hasPublicFacilities": false, 
+            "federalState": "Schleswig-Holstein", 
+            "evaNumbers": [
+                {
+                    "isMain": true, 
+                    "geographicCoordinates": {
+                        "type": "Point", 
+                        "coordinates": [
+                            10.735581, 
+                            53.911202
+                        ]
+                    }, 
+                    "number": 8003786
+                }
+            ], 
+            "regionalbereich": {
+                "shortName": "RB N", 
+                "number": 3, 
+                "name": "RB Nord"
+            }, 
+            "hasTravelNecessities": false, 
+            "stationManagement": {
+                "number": 4, 
+                "name": "Schleswig-Holstein"
+            }, 
+            "hasLocalPublicTransport": true, 
+            "hasTaxiRank": false
+        }
+    ], 
+    "offset": 5300
+}

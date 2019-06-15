@@ -1,0 +1,1377 @@
+{
+  "8010159": {
+    "evaNumber": "8010159", 
+    "city": "Halle ", 
+    "name": "Halle (Saale) Hbf", 
+    "number": 2498, 
+    "coord": [
+      11.987085, 
+      51.477509
+    ], 
+    "zipcode": "06112"
+  }, 
+  "8001886": {
+    "evaNumber": "8001886", 
+    "city": "Eschweiler", 
+    "name": "Eschweiler Hbf", 
+    "number": 1680, 
+    "coord": [
+      6.251937, 
+      50.813532
+    ], 
+    "zipcode": "52249"
+  }, 
+  "8000152": {
+    "evaNumber": "8000152", 
+    "city": "Hannover", 
+    "name": "Hannover Hbf", 
+    "number": 2545, 
+    "coord": [
+      9.741021, 
+      52.376761
+    ], 
+    "zipcode": "30159"
+  }, 
+  "8000036": {
+    "evaNumber": "8000036", 
+    "city": "Bielefeld", 
+    "name": "Bielefeld Hbf", 
+    "number": 622, 
+    "coord": [
+      8.532722, 
+      52.029261
+    ], 
+    "zipcode": "33602"
+  }, 
+  "8000032": {
+    "evaNumber": "8000032", 
+    "city": "Schweinfurt", 
+    "name": "Schweinfurt Hbf", 
+    "number": 5742, 
+    "coord": [
+      10.212919, 
+      50.035313
+    ], 
+    "zipcode": "97424"
+  }, 
+  "8000236": {
+    "evaNumber": "8000236", 
+    "city": "Ludwigshafen", 
+    "name": "Ludwigshafen (Rhein) Hbf", 
+    "number": 3837, 
+    "coord": [
+      8.433402, 
+      49.477987
+    ], 
+    "zipcode": "67059"
+  }, 
+  "8000349": {
+    "evaNumber": "8000349", 
+    "city": "Offenbach (Main)", 
+    "name": "Offenbach (Main) Hbf", 
+    "number": 4742, 
+    "coord": [
+      8.760743, 
+      50.099264
+    ], 
+    "zipcode": "63065"
+  }, 
+  "8000239": {
+    "evaNumber": "8000239", 
+    "city": "Lünen", 
+    "name": "Lünen Hbf", 
+    "number": 3856, 
+    "coord": [
+      7.529485, 
+      51.617129
+    ], 
+    "zipcode": "44534"
+  }, 
+  "8000039": {
+    "evaNumber": "8000039", 
+    "city": "Bingen ", 
+    "name": "Bingen (Rhein) Hbf", 
+    "number": 649, 
+    "coord": [
+      7.884263, 
+      49.968729
+    ], 
+    "zipcode": "55411"
+  }, 
+  "8012666": {
+    "evaNumber": "8012666", 
+    "city": "Potsdam", 
+    "name": "Potsdam Hbf", 
+    "number": 5012, 
+    "coord": [
+      13.066782, 
+      52.391704
+    ], 
+    "zipcode": "14473"
+  }, 
+  "8013008": {
+    "evaNumber": "8013008", 
+    "city": "Sonneberg (Thür)", 
+    "name": "Sonneberg (Thür) Hbf", 
+    "number": 5904, 
+    "coord": [
+      11.168848, 
+      50.355078
+    ], 
+    "zipcode": "96515"
+  }, 
+  "8000134": {
+    "evaNumber": "8000134", 
+    "city": "Trier", 
+    "name": "Trier Hbf", 
+    "number": 6264, 
+    "coord": [
+      6.652453, 
+      49.756846
+    ], 
+    "zipcode": "54292"
+  }, 
+  "8000323": {
+    "evaNumber": "8000323", 
+    "city": "Saarbrücken", 
+    "name": "Saarbrücken Hbf", 
+    "number": 5451, 
+    "coord": [
+      6.991021, 
+      49.241065
+    ], 
+    "zipcode": "66111"
+  }, 
+  "8001327": {
+    "evaNumber": "8001327", 
+    "city": "Castrop-Rauxel", 
+    "name": "Castrop-Rauxel Hbf", 
+    "number": 1033, 
+    "coord": [
+      7.304566, 
+      51.573696
+    ], 
+    "zipcode": "44579"
+  }, 
+  "8000191": {
+    "evaNumber": "8000191", 
+    "city": "Karlsruhe", 
+    "name": "Karlsruhe Hbf", 
+    "number": 3107, 
+    "coord": [
+      8.402181, 
+      48.993515
+    ], 
+    "zipcode": "76137"
+  }, 
+  "8000193": {
+    "evaNumber": "8000193", 
+    "city": "Kassel", 
+    "name": "Kassel Hbf", 
+    "number": 3124, 
+    "coord": [
+      9.489501, 
+      51.31826
+    ], 
+    "zipcode": "34117"
+  }, 
+  "8000192": {
+    "evaNumber": "8000192", 
+    "city": "Herne", 
+    "name": "Wanne-Eickel Hbf", 
+    "number": 6533, 
+    "coord": [
+      7.165783, 
+      51.531256
+    ], 
+    "zipcode": "44649"
+  }, 
+  "8010125": {
+    "evaNumber": "8010125", 
+    "city": "Gera", 
+    "name": "Gera Hbf", 
+    "number": 2073, 
+    "coord": [
+      12.077092, 
+      50.883421
+    ], 
+    "zipcode": "07545"
+  }, 
+  "8000197": {
+    "evaNumber": "8000197", 
+    "city": "Kempten ", 
+    "name": "Kempten (Allgäu) Hbf", 
+    "number": 3155, 
+    "coord": [
+      10.31761, 
+      47.711745
+    ], 
+    "zipcode": "87435"
+  }, 
+  "8000199": {
+    "evaNumber": "8000199", 
+    "city": "Kiel", 
+    "name": "Kiel Hbf", 
+    "number": 3174, 
+    "coord": [
+      10.131976, 
+      54.314985
+    ], 
+    "zipcode": "24114"
+  }, 
+  "8010324": {
+    "evaNumber": "8010324", 
+    "city": "Schwerin", 
+    "name": "Schwerin Hbf", 
+    "number": 5755, 
+    "coord": [
+      11.407455, 
+      53.634739
+    ], 
+    "zipcode": "19053"
+  }, 
+  "8011160": {
+    "evaNumber": "8011160", 
+    "city": "Berlin", 
+    "name": "Berlin Hauptbahnhof", 
+    "number": 1071, 
+    "coord": [
+      13.369545, 
+      52.525592
+    ], 
+    "zipcode": "10557"
+  }, 
+  "8010205": {
+    "evaNumber": "8010205", 
+    "city": "Leipzig", 
+    "name": "Leipzig Hbf", 
+    "number": 3631, 
+    "coord": [
+      12.383336, 
+      51.346549
+    ], 
+    "zipcode": "04109"
+  }, 
+  "8006552": {
+    "evaNumber": "8006552", 
+    "city": "Wolfsburg", 
+    "name": "Wolfsburg Hbf", 
+    "number": 6859, 
+    "coord": [
+      10.787784, 
+      52.429498
+    ], 
+    "zipcode": "38440"
+  }, 
+  "8005247": {
+    "evaNumber": "8005247", 
+    "city": "Saarlouis", 
+    "name": "Saarlouis Hbf", 
+    "number": 5458, 
+    "coord": [
+      6.750169, 
+      49.32783
+    ], 
+    "zipcode": "66740"
+  }, 
+  "8000041": {
+    "evaNumber": "8000041", 
+    "city": "Bochum", 
+    "name": "Bochum Hbf", 
+    "number": 724, 
+    "coord": [
+      7.224109, 
+      51.478648
+    ], 
+    "zipcode": "44787"
+  }, 
+  "8000047": {
+    "evaNumber": "8000047", 
+    "city": "Bottrop", 
+    "name": "Bottrop Hbf", 
+    "number": 804, 
+    "coord": [
+      6.936925, 
+      51.509536
+    ], 
+    "zipcode": "46244"
+  }, 
+  "8000045": {
+    "evaNumber": "8000045", 
+    "city": "Boppard", 
+    "name": "Boppard Hbf", 
+    "number": 776, 
+    "coord": [
+      7.586102, 
+      50.231413
+    ], 
+    "zipcode": "56154"
+  }, 
+  "8005033": {
+    "evaNumber": "8005033", 
+    "city": "Remscheid", 
+    "name": "Remscheid Hbf", 
+    "number": 5217, 
+    "coord": [
+      7.199983, 
+      51.177235
+    ], 
+    "zipcode": "42859"
+  }, 
+  "8000044": {
+    "evaNumber": "8000044", 
+    "city": "Bonn", 
+    "name": "Bonn Hbf", 
+    "number": 767, 
+    "coord": [
+      7.097136, 
+      50.732008
+    ], 
+    "zipcode": "53111"
+  }, 
+  "8000207": {
+    "evaNumber": "8000207", 
+    "city": "Köln", 
+    "name": "Köln Hbf", 
+    "number": 3320, 
+    "coord": [
+      6.958729, 
+      50.94303
+    ], 
+    "zipcode": "50667"
+  }, 
+  "8000206": {
+    "evaNumber": "8000206", 
+    "city": "Koblenz", 
+    "name": "Koblenz Hbf", 
+    "number": 3299, 
+    "coord": [
+      7.588345, 
+      50.350929
+    ], 
+    "zipcode": "56068"
+  }, 
+  "8000284": {
+    "evaNumber": "8000284", 
+    "city": "Nürnberg", 
+    "name": "Nürnberg Hbf", 
+    "number": 4593, 
+    "coord": [
+      11.082989, 
+      49.445616
+    ], 
+    "zipcode": "90443"
+  }, 
+  "8000286": {
+    "evaNumber": "8000286", 
+    "city": "Oberhausen", 
+    "name": "Oberhausen Hbf", 
+    "number": 4648, 
+    "coord": [
+      6.851588, 
+      51.474878
+    ], 
+    "zipcode": "46045"
+  }, 
+  "8000049": {
+    "evaNumber": "8000049", 
+    "city": "Braunschweig", 
+    "name": "Braunschweig Hbf", 
+    "number": 835, 
+    "coord": [
+      10.540295, 
+      52.252218
+    ], 
+    "zipcode": "38102"
+  }, 
+  "8010338": {
+    "evaNumber": "8010338", 
+    "city": "Stralsund", 
+    "name": "Stralsund Hbf", 
+    "number": 6049, 
+    "coord": [
+      13.077321, 
+      54.308626
+    ], 
+    "zipcode": "18437"
+  }, 
+  "8000189": {
+    "evaNumber": "8000189", 
+    "city": "Kaiserslautern", 
+    "name": "Kaiserslautern Hbf", 
+    "number": 3082, 
+    "coord": [
+      7.768716, 
+      49.436137
+    ], 
+    "zipcode": "67655"
+  }, 
+  "8005628": {
+    "evaNumber": "8005628", 
+    "city": "Speyer", 
+    "name": "Speyer Hbf", 
+    "number": 5923, 
+    "coord": [
+      8.427949, 
+      49.324119
+    ], 
+    "zipcode": "67346"
+  }, 
+  "8000183": {
+    "evaNumber": "8000183", 
+    "city": "Ingolstadt", 
+    "name": "Ingolstadt Hbf", 
+    "number": 2993, 
+    "coord": [
+      11.437337, 
+      48.744541
+    ], 
+    "zipcode": "85051"
+  }, 
+  "8010184": {
+    "evaNumber": "8010184", 
+    "city": "Chemnitz ", 
+    "name": "Chemnitz Hbf", 
+    "number": 1040, 
+    "coord": [
+      12.930877, 
+      50.839696
+    ], 
+    "zipcode": "09111"
+  }, 
+  "8000050": {
+    "evaNumber": "8000050", 
+    "city": "Bremen", 
+    "name": "Bremen Hbf", 
+    "number": 855, 
+    "coord": [
+      8.813834, 
+      53.083481
+    ], 
+    "zipcode": "28195"
+  }, 
+  "8000051": {
+    "evaNumber": "8000051", 
+    "city": "Bremerhaven", 
+    "name": "Bremerhaven Hbf", 
+    "number": 868, 
+    "coord": [
+      8.599555, 
+      53.534912
+    ], 
+    "zipcode": "27570"
+  }, 
+  "8000211": {
+    "evaNumber": "8000211", 
+    "city": "Krefeld", 
+    "name": "Krefeld Hbf", 
+    "number": 3403, 
+    "coord": [
+      6.569885, 
+      51.325717
+    ], 
+    "zipcode": "47798"
+  }, 
+  "8000216": {
+    "evaNumber": "8000216", 
+    "city": "Landau", 
+    "name": "Landau (Pfalz) Hbf", 
+    "number": 3505, 
+    "coord": [
+      8.126204, 
+      49.197741
+    ], 
+    "zipcode": "76829"
+  }, 
+  "8000217": {
+    "evaNumber": "8000217", 
+    "city": "Landshut ", 
+    "name": "Landshut (Bay) Hbf", 
+    "number": 3513, 
+    "coord": [
+      12.13593, 
+      48.547492
+    ], 
+    "zipcode": "84032"
+  }, 
+  "8000348": {
+    "evaNumber": "8000348", 
+    "city": "Stolberg (Rheinl)", 
+    "name": "Stolberg (Rheinl) Hbf", 
+    "number": 6037, 
+    "coord": [
+      6.217478, 
+      50.79448
+    ], 
+    "zipcode": "52222"
+  }, 
+  "8000118": {
+    "evaNumber": "8000118", 
+    "city": "Gelsenkirchen", 
+    "name": "Gelsenkirchen Hbf", 
+    "number": 2052, 
+    "coord": [
+      7.10258, 
+      51.505013
+    ], 
+    "zipcode": "45879"
+  }, 
+  "8000291": {
+    "evaNumber": "8000291", 
+    "city": "Oldenburg (Oldb)", 
+    "name": "Oldenburg (Oldb) Hbf", 
+    "number": 4765, 
+    "coord": [
+      8.222713, 
+      53.144323
+    ], 
+    "zipcode": "26122"
+  }, 
+  "8000297": {
+    "evaNumber": "8000297", 
+    "city": "Paderborn", 
+    "name": "Paderborn Hbf", 
+    "number": 4846, 
+    "coord": [
+      8.740505, 
+      51.712979
+    ], 
+    "zipcode": "33102"
+  }, 
+  "8000294": {
+    "evaNumber": "8000294", 
+    "city": "Osnabrück", 
+    "name": "Osnabrück Hbf", 
+    "number": 4787, 
+    "coord": [
+      8.061781, 
+      52.272851
+    ], 
+    "zipcode": "49074"
+  }, 
+  "8000110": {
+    "evaNumber": "8000110", 
+    "city": "Freudenstadt", 
+    "name": "Freudenstadt Hbf", 
+    "number": 1921, 
+    "coord": [
+      8.428803, 
+      48.460322
+    ], 
+    "zipcode": "72250"
+  }, 
+  "8000298": {
+    "evaNumber": "8000298", 
+    "city": "Passau", 
+    "name": "Passau Hbf", 
+    "number": 4872, 
+    "coord": [
+      13.450776, 
+      48.573632
+    ], 
+    "zipcode": "94032"
+  }, 
+  "8000299": {
+    "evaNumber": "8000299", 
+    "city": "Pforzheim", 
+    "name": "Pforzheim Hbf", 
+    "number": 4922, 
+    "coord": [
+      8.703099, 
+      48.894152
+    ], 
+    "zipcode": "75175"
+  }, 
+  "8000114": {
+    "evaNumber": "8000114", 
+    "city": "Fürth", 
+    "name": "Fürth (Bay) Hbf", 
+    "number": 1984, 
+    "coord": [
+      10.989988, 
+      49.469707
+    ], 
+    "zipcode": "90762"
+  }, 
+  "8000230": {
+    "evaNumber": "8000230", 
+    "city": "Lindau", 
+    "name": "Lindau Hbf", 
+    "number": 3727, 
+    "coord": [
+      9.680469, 
+      47.544341
+    ], 
+    "zipcode": "88131"
+  }, 
+  "8000107": {
+    "evaNumber": "8000107", 
+    "city": "Freiburg", 
+    "name": "Freiburg (Breisgau) Hbf", 
+    "number": 1893, 
+    "coord": [
+      7.84117, 
+      47.997697
+    ], 
+    "zipcode": "79098"
+  }, 
+  "8000105": {
+    "evaNumber": "8000105", 
+    "city": "Frankfurt am Main", 
+    "name": "Frankfurt (Main) Hbf", 
+    "number": 1866, 
+    "coord": [
+      8.663789, 
+      50.107145
+    ], 
+    "zipcode": "60329"
+  }, 
+  "8000068": {
+    "evaNumber": "8000068", 
+    "city": "Darmstadt", 
+    "name": "Darmstadt Hbf", 
+    "number": 1126, 
+    "coord": [
+      8.629636, 
+      49.872503
+    ], 
+    "zipcode": "64293"
+  }, 
+  "8000237": {
+    "evaNumber": "8000237", 
+    "city": "Lübeck", 
+    "name": "Lübeck Hbf", 
+    "number": 3807, 
+    "coord": [
+      10.669821, 
+      53.867547
+    ], 
+    "zipcode": "23558"
+  }, 
+  "8000379": {
+    "evaNumber": "8000379", 
+    "city": "Wittlich", 
+    "name": "Wittlich Hbf", 
+    "number": 6834, 
+    "coord": [
+      6.943557, 
+      49.973121
+    ], 
+    "zipcode": "54516"
+  }, 
+  "8000002": {
+    "evaNumber": "8000002", 
+    "city": "Aalen", 
+    "name": "Aalen Hbf", 
+    "number": 4, 
+    "coord": [
+      10.096271, 
+      48.841013
+    ], 
+    "zipcode": "73430"
+  }, 
+  "8002461": {
+    "evaNumber": "8002461", 
+    "city": "Gütersloh", 
+    "name": "Gütersloh Hbf", 
+    "number": 2438, 
+    "coord": [
+      8.385071, 
+      51.906941
+    ], 
+    "zipcode": "33330"
+  }, 
+  "8002924": {
+    "evaNumber": "8002924", 
+    "city": "Hof", 
+    "name": "Hof Hbf", 
+    "number": 2818, 
+    "coord": [
+      11.923067, 
+      50.307743
+    ], 
+    "zipcode": "95028"
+  }, 
+  "8001768": {
+    "evaNumber": "8001768", 
+    "city": "Emden", 
+    "name": "Emden Hbf", 
+    "number": 1580, 
+    "coord": [
+      7.195176, 
+      53.369036
+    ], 
+    "zipcode": "26721"
+  }, 
+  "8000263": {
+    "evaNumber": "8000263", 
+    "city": "Münster", 
+    "name": "Münster (Westf) Hbf", 
+    "number": 4280, 
+    "coord": [
+      7.635715, 
+      51.956566
+    ], 
+    "zipcode": "48143"
+  }, 
+  "8000261": {
+    "evaNumber": "8000261", 
+    "city": "München", 
+    "name": "München Hbf", 
+    "number": 4234, 
+    "coord": [
+      11.558335, 
+      48.140232
+    ], 
+    "zipcode": "80335"
+  }, 
+  "8000260": {
+    "evaNumber": "8000260", 
+    "city": "Würzburg", 
+    "name": "Würzburg Hbf", 
+    "number": 6945, 
+    "coord": [
+      9.93578, 
+      49.801796
+    ], 
+    "zipcode": "97070"
+  }, 
+  "8000087": {
+    "evaNumber": "8000087", 
+    "city": "Solingen-Ohligs", 
+    "name": "Solingen Hbf", 
+    "number": 5882, 
+    "coord": [
+      7.004187, 
+      51.160766
+    ], 
+    "zipcode": "42697"
+  }, 
+  "8000086": {
+    "evaNumber": "8000086", 
+    "city": "Duisburg", 
+    "name": "Duisburg Hbf", 
+    "number": 1374, 
+    "coord": [
+      6.775903, 
+      51.429785
+    ], 
+    "zipcode": "47051"
+  }, 
+  "8000085": {
+    "evaNumber": "8000085", 
+    "city": "Düsseldorf", 
+    "name": "Düsseldorf Hbf", 
+    "number": 1401, 
+    "coord": [
+      6.794319, 
+      51.219962
+    ], 
+    "zipcode": "40210"
+  }, 
+  "8006680": {
+    "evaNumber": "8006680", 
+    "city": "Zweibrücken", 
+    "name": "Zweibrücken Hbf", 
+    "number": 7066, 
+    "coord": [
+      7.356643, 
+      49.246805
+    ], 
+    "zipcode": "66482"
+  }, 
+  "8000080": {
+    "evaNumber": "8000080", 
+    "city": "Dortmund", 
+    "name": "Dortmund Hbf", 
+    "number": 1289, 
+    "coord": [
+      7.45929, 
+      51.517896
+    ], 
+    "zipcode": "44137"
+  }, 
+  "8004822": {
+    "evaNumber": "8004822", 
+    "city": "Pirmasens", 
+    "name": "Pirmasens Hbf", 
+    "number": 4941, 
+    "coord": [
+      7.598432, 
+      49.205645
+    ], 
+    "zipcode": "66953"
+  }, 
+  "8010224": {
+    "evaNumber": "8010224", 
+    "city": "Magdeburg", 
+    "name": "Magdeburg Hbf", 
+    "number": 3881, 
+    "coord": [
+      11.626891, 
+      52.130349
+    ], 
+    "zipcode": "39104"
+  }, 
+  "8000170": {
+    "evaNumber": "8000170", 
+    "city": "Ulm", 
+    "name": "Ulm Hbf", 
+    "number": 6323, 
+    "coord": [
+      9.982227, 
+      48.399437
+    ], 
+    "zipcode": "89073"
+  }, 
+  "8010222": {
+    "evaNumber": "8010222", 
+    "city": "Lutherstadt Wittenberg", 
+    "name": "Lutherstadt Wittenberg Hauptbahnhof", 
+    "number": 3863, 
+    "coord": [
+      12.662285, 
+      51.867811
+    ], 
+    "zipcode": "06886"
+  }, 
+  "8000176": {
+    "evaNumber": "8000176", 
+    "city": "Homburg (Saar)", 
+    "name": "Homburg (Saar) Hbf", 
+    "number": 2892, 
+    "coord": [
+      7.337035, 
+      49.328082
+    ], 
+    "zipcode": "66424"
+  }, 
+  "8010304": {
+    "evaNumber": "8010304", 
+    "city": "Rostock", 
+    "name": "Rostock Hbf", 
+    "number": 5365, 
+    "coord": [
+      12.131079, 
+      54.078246
+    ], 
+    "zipcode": "18055"
+  }, 
+  "8002549": {
+    "evaNumber": "8002549", 
+    "city": "Hamburg", 
+    "name": "Hamburg Hbf", 
+    "number": 2514, 
+    "coord": [
+      10.006909, 
+      53.552736
+    ], 
+    "zipcode": "20099"
+  }, 
+  "8002267": {
+    "evaNumber": "8002267", 
+    "city": "Gevelsberg", 
+    "name": "Gevelsberg Hbf", 
+    "number": 2113, 
+    "coord": [
+      7.339931, 
+      51.324437
+    ], 
+    "zipcode": "58285"
+  }, 
+  "8000274": {
+    "evaNumber": "8000274", 
+    "city": "Neuss", 
+    "name": "Neuss Hbf", 
+    "number": 4440, 
+    "coord": [
+      6.684527, 
+      51.204351
+    ], 
+    "zipcode": "41462"
+  }, 
+  "8000275": {
+    "evaNumber": "8000275", 
+    "city": "Neustadt ", 
+    "name": "Neustadt (Weinstr) Hbf", 
+    "number": 4454, 
+    "coord": [
+      8.140757, 
+      49.349553
+    ], 
+    "zipcode": "67434"
+  }, 
+  "8000272": {
+    "evaNumber": "8000272", 
+    "city": "Neunkirchen (Saar)", 
+    "name": "Neunkirchen (Saar) Hbf", 
+    "number": 4426, 
+    "coord": [
+      7.176655, 
+      49.353291
+    ], 
+    "zipcode": "66538"
+  }, 
+  "8010007": {
+    "evaNumber": "8010007", 
+    "city": "Arnstadt", 
+    "name": "Arnstadt Hbf", 
+    "number": 180, 
+    "coord": [
+      10.948262, 
+      50.841939
+    ], 
+    "zipcode": "99310"
+  }, 
+  "8000885": {
+    "evaNumber": "8000885", 
+    "city": "Berchtesgaden", 
+    "name": "Berchtesgaden Hbf", 
+    "number": 495, 
+    "coord": [
+      12.999058, 
+      47.626688
+    ], 
+    "zipcode": "83471"
+  }, 
+  "8000098": {
+    "evaNumber": "8000098", 
+    "city": "Essen", 
+    "name": "Essen Hbf", 
+    "number": 1690, 
+    "coord": [
+      7.014793, 
+      51.451355
+    ], 
+    "zipcode": "45127"
+  }, 
+  "8010250": {
+    "evaNumber": "8010250", 
+    "city": "Neustrelitz", 
+    "name": "Neustrelitz Hbf", 
+    "number": 4460, 
+    "coord": [
+      13.074603, 
+      53.359255
+    ], 
+    "zipcode": "17235"
+  }, 
+  "8000169": {
+    "evaNumber": "8000169", 
+    "city": "Hildesheim", 
+    "name": "Hildesheim Hbf", 
+    "number": 2765, 
+    "coord": [
+      9.953497, 
+      52.160626
+    ], 
+    "zipcode": "31134"
+  }, 
+  "8010397": {
+    "evaNumber": "8010397", 
+    "city": "Zwickau ", 
+    "name": "Zwickau (Sachs) Hbf", 
+    "number": 7068, 
+    "coord": [
+      12.474716, 
+      50.714668
+    ], 
+    "zipcode": "08056"
+  }, 
+  "8000314": {
+    "evaNumber": "8000314", 
+    "city": "Reutlingen", 
+    "name": "Reutlingen Hbf", 
+    "number": 5242, 
+    "coord": [
+      9.209116, 
+      48.496079
+    ], 
+    "zipcode": "72764"
+  }, 
+  "8000240": {
+    "evaNumber": "8000240", 
+    "city": "Mainz", 
+    "name": "Mainz Hbf", 
+    "number": 3898, 
+    "coord": [
+      8.25872, 
+      50.001117
+    ], 
+    "zipcode": "55116"
+  }, 
+  "8010093": {
+    "evaNumber": "8010093", 
+    "city": "Eberswalde", 
+    "name": "Eberswalde Hbf", 
+    "number": 1444, 
+    "coord": [
+      13.797062, 
+      52.834021
+    ], 
+    "zipcode": "16225"
+  }, 
+  "8013112": {
+    "evaNumber": "8013112", 
+    "city": "Thale", 
+    "name": "Thale Hbf", 
+    "number": 6184, 
+    "coord": [
+      11.031048, 
+      51.746047
+    ], 
+    "zipcode": "06502"
+  }, 
+  "8000244": {
+    "evaNumber": "8000244", 
+    "city": "Mannheim", 
+    "name": "Mannheim Hbf", 
+    "number": 3925, 
+    "coord": [
+      8.468921, 
+      49.479354
+    ], 
+    "zipcode": "68161"
+  }, 
+  "8000001": {
+    "evaNumber": "8000001", 
+    "city": "Aachen", 
+    "name": "Aachen Hbf", 
+    "number": 1, 
+    "coord": [
+      6.091499, 
+      50.7678
+    ], 
+    "zipcode": "52064"
+  }, 
+  "8000318": {
+    "evaNumber": "8000318", 
+    "city": "Mönchengladbach", 
+    "name": "Rheydt Hbf", 
+    "number": 5260, 
+    "coord": [
+      6.439564, 
+      51.163027
+    ], 
+    "zipcode": "41236"
+  }, 
+  "8001397": {
+    "evaNumber": "8001397", 
+    "city": "Deggendorf", 
+    "name": "Deggendorf Hbf", 
+    "number": 1149, 
+    "coord": [
+      12.949727, 
+      48.83944
+    ], 
+    "zipcode": "94469"
+  }, 
+  "8010077": {
+    "evaNumber": "8010077", 
+    "city": "Dessau-Roßlau", 
+    "name": "Dessau Hbf", 
+    "number": 1173, 
+    "coord": [
+      12.234945, 
+      51.839865
+    ], 
+    "zipcode": "06844"
+  }, 
+  "8010240": {
+    "evaNumber": "8010240", 
+    "city": "Naumburg ", 
+    "name": "Naumburg (Saale) Hbf", 
+    "number": 4309, 
+    "coord": [
+      11.796984, 
+      51.163071
+    ], 
+    "zipcode": "06618"
+  }, 
+  "8000257": {
+    "evaNumber": "8000257", 
+    "city": "Worms", 
+    "name": "Worms Hbf", 
+    "number": 6887, 
+    "coord": [
+      8.356448, 
+      49.63494
+    ], 
+    "zipcode": "67547"
+  }, 
+  "8010085": {
+    "evaNumber": "8010085", 
+    "city": "Dresden", 
+    "name": "Dresden Hbf", 
+    "number": 1343, 
+    "coord": [
+      13.732035, 
+      51.040563
+    ], 
+    "zipcode": "01069"
+  }, 
+  "8000253": {
+    "evaNumber": "8000253", 
+    "city": "Mönchengladbach", 
+    "name": "Mönchengladbach Hbf", 
+    "number": 4162, 
+    "coord": [
+      6.446111, 
+      51.196583
+    ], 
+    "zipcode": "41061"
+  }, 
+  "8000250": {
+    "evaNumber": "8000250", 
+    "city": "Wiesbaden", 
+    "name": "Wiesbaden Hbf", 
+    "number": 6744, 
+    "coord": [
+      8.243731, 
+      50.070791
+    ], 
+    "zipcode": "65189"
+  }, 
+  "8000251": {
+    "evaNumber": "8000251", 
+    "city": "Witten", 
+    "name": "Witten Hbf", 
+    "number": 6822, 
+    "coord": [
+      7.329442, 
+      51.435544
+    ], 
+    "zipcode": "58452"
+  }, 
+  "8000157": {
+    "evaNumber": "8000157", 
+    "city": "Heilbronn", 
+    "name": "Heilbronn Hbf", 
+    "number": 2648, 
+    "coord": [
+      9.207715, 
+      49.143306
+    ], 
+    "zipcode": "74072"
+  }, 
+  "8000156": {
+    "evaNumber": "8000156", 
+    "city": "Heidelberg", 
+    "name": "Heidelberg Hbf", 
+    "number": 2628, 
+    "coord": [
+      8.675442, 
+      49.403567
+    ], 
+    "zipcode": "69115"
+  }, 
+  "8000150": {
+    "evaNumber": "8000150", 
+    "city": "Hanau", 
+    "name": "Hanau Hbf", 
+    "number": 2537, 
+    "coord": [
+      8.929, 
+      50.120953
+    ], 
+    "zipcode": "63450"
+  }, 
+  "8000259": {
+    "evaNumber": "8000259", 
+    "city": "Mülheim an der Ruhr", 
+    "name": "Mülheim (Ruhr) Hbf", 
+    "number": 4219, 
+    "coord": [
+      6.88651, 
+      51.431342
+    ], 
+    "zipcode": "45468"
+  }, 
+  "8000307": {
+    "evaNumber": "8000307", 
+    "city": "Recklinghausen", 
+    "name": "Recklinghausen Hbf", 
+    "number": 5160, 
+    "coord": [
+      7.20349, 
+      51.616359
+    ], 
+    "zipcode": "45657"
+  }, 
+  "8000017": {
+    "evaNumber": "8000017", 
+    "city": "Bad Friedrichshall", 
+    "name": "Bad Friedrichshall Hbf", 
+    "number": 277, 
+    "coord": [
+      9.199771, 
+      49.231571
+    ], 
+    "zipcode": "74177"
+  }, 
+  "8000010": {
+    "evaNumber": "8000010", 
+    "city": "Aschaffenburg", 
+    "name": "Aschaffenburg Hbf", 
+    "number": 187, 
+    "coord": [
+      9.143697, 
+      49.980557
+    ], 
+    "zipcode": "63739"
+  }, 
+  "8000309": {
+    "evaNumber": "8000309", 
+    "city": "Regensburg", 
+    "name": "Regensburg Hbf", 
+    "number": 5169, 
+    "coord": [
+      12.099617, 
+      49.011672
+    ], 
+    "zipcode": "93047"
+  }, 
+  "8003729": {
+    "evaNumber": "8003729", 
+    "city": "Lörrach", 
+    "name": "Lörrach Hbf", 
+    "number": 3783, 
+    "coord": [
+      7.66542, 
+      47.614053
+    ], 
+    "zipcode": "79539"
+  }, 
+  "8000013": {
+    "evaNumber": "8000013", 
+    "city": "Augsburg", 
+    "name": "Augsburg Hbf", 
+    "number": 220, 
+    "coord": [
+      10.88557, 
+      48.365441
+    ], 
+    "zipcode": "86150"
+  }, 
+  "8010060": {
+    "evaNumber": "8010060", 
+    "city": "Brandenburg an der Havel", 
+    "name": "Brandenburg Hbf", 
+    "number": 823, 
+    "coord": [
+      12.566138, 
+      52.400554
+    ], 
+    "zipcode": "14774"
+  }, 
+  "8010101": {
+    "evaNumber": "8010101", 
+    "city": "Erfurt", 
+    "name": "Erfurt Hbf", 
+    "number": 1634, 
+    "coord": [
+      11.038499, 
+      50.972551
+    ], 
+    "zipcode": "99084"
+  }, 
+  "8004623": {
+    "evaNumber": "8004623", 
+    "city": "Öhringen", 
+    "name": "Öhringen Hbf", 
+    "number": 4754, 
+    "coord": [
+      9.502705, 
+      49.203214
+    ], 
+    "zipcode": "74613"
+  }, 
+  "8005578": {
+    "evaNumber": "8005578", 
+    "city": "Sinsheim (Elsenz)", 
+    "name": "Sinsheim (Elsenz) Hbf", 
+    "number": 5870, 
+    "coord": [
+      8.8751, 
+      49.250353
+    ], 
+    "zipcode": "74889"
+  }, 
+  "8000266": {
+    "evaNumber": "8000266", 
+    "city": "Wuppertal", 
+    "name": "Wuppertal Hbf", 
+    "number": 6914, 
+    "coord": [
+      7.149543, 
+      51.254363
+    ], 
+    "zipcode": "42103"
+  }, 
+  "8098096": {
+    "evaNumber": "8098096", 
+    "city": "Stuttgart", 
+    "name": "Stuttgart Hbf", 
+    "number": 6071, 
+    "coord": [
+      9.179808, 
+      48.782999
+    ], 
+    "zipcode": "70173"
+  }, 
+  "8010080": {
+    "evaNumber": "8010080", 
+    "city": "Döbeln", 
+    "name": "Döbeln Hbf", 
+    "number": 1236, 
+    "coord": [
+      13.094988, 
+      51.126568
+    ], 
+    "zipcode": "04720"
+  }, 
+  "8000142": {
+    "evaNumber": "8000142", 
+    "city": "Hagen", 
+    "name": "Hagen Hbf", 
+    "number": 2457, 
+    "coord": [
+      7.460249, 
+      51.362747
+    ], 
+    "zipcode": "58089"
+  }, 
+  "8000141": {
+    "evaNumber": "8000141", 
+    "city": "Tübingen", 
+    "name": "Tübingen Hbf", 
+    "number": 6279, 
+    "coord": [
+      9.055407, 
+      48.515811
+    ], 
+    "zipcode": "72072"
+  }, 
+  "8000028": {
+    "evaNumber": "8000028", 
+    "city": "Bayreuth", 
+    "name": "Bayreuth Hbf", 
+    "number": 439, 
+    "coord": [
+      11.579985, 
+      49.949616
+    ], 
+    "zipcode": "95444"
+  }, 
+  "8000332": {
+    "evaNumber": "8000332", 
+    "city": "Frankenthal", 
+    "name": "Frankenthal Hbf", 
+    "number": 1848, 
+    "coord": [
+      8.349702, 
+      49.535567
+    ], 
+    "zipcode": "67227"
+  }
+}

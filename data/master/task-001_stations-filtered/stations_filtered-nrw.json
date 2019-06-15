@@ -1,0 +1,156 @@
+{
+  "8000045": {
+    "evaNumber": "8000045", 
+    "city": "Boppard", 
+    "name": "Boppard Hbf", 
+    "number": 776, 
+    "coord": [
+      7.586102, 
+      50.231413
+    ], 
+    "zipcode": "56154"
+  }, 
+  "8000251": {
+    "evaNumber": "8000251", 
+    "city": "Witten", 
+    "name": "Witten Hbf", 
+    "number": 6822, 
+    "coord": [
+      7.329442, 
+      51.435544
+    ], 
+    "zipcode": "58452"
+  }, 
+  "8000142": {
+    "evaNumber": "8000142", 
+    "city": "Hagen", 
+    "name": "Hagen Hbf", 
+    "number": 2457, 
+    "coord": [
+      7.460249, 
+      51.362747
+    ], 
+    "zipcode": "58089"
+  }, 
+  "8000207": {
+    "evaNumber": "8000207", 
+    "city": "Köln", 
+    "name": "Köln Hbf", 
+    "number": 3320, 
+    "coord": [
+      6.958729, 
+      50.94303
+    ], 
+    "zipcode": "50667"
+  }, 
+  "8000206": {
+    "evaNumber": "8000206", 
+    "city": "Koblenz", 
+    "name": "Koblenz Hbf", 
+    "number": 3299, 
+    "coord": [
+      7.588345, 
+      50.350929
+    ], 
+    "zipcode": "56068"
+  }, 
+  "8000379": {
+    "evaNumber": "8000379", 
+    "city": "Wittlich", 
+    "name": "Wittlich Hbf", 
+    "number": 6834, 
+    "coord": [
+      6.943557, 
+      49.973121
+    ], 
+    "zipcode": "54516"
+  }, 
+  "8000039": {
+    "evaNumber": "8000039", 
+    "city": "Bingen ", 
+    "name": "Bingen (Rhein) Hbf", 
+    "number": 649, 
+    "coord": [
+      7.884263, 
+      49.968729
+    ], 
+    "zipcode": "55411"
+  }, 
+  "8000348": {
+    "evaNumber": "8000348", 
+    "city": "Stolberg (Rheinl)", 
+    "name": "Stolberg (Rheinl) Hbf", 
+    "number": 6037, 
+    "coord": [
+      6.217478, 
+      50.79448
+    ], 
+    "zipcode": "52222"
+  }, 
+  "8001886": {
+    "evaNumber": "8001886", 
+    "city": "Eschweiler", 
+    "name": "Eschweiler Hbf", 
+    "number": 1680, 
+    "coord": [
+      6.251937, 
+      50.813532
+    ], 
+    "zipcode": "52249"
+  }, 
+  "8000044": {
+    "evaNumber": "8000044", 
+    "city": "Bonn", 
+    "name": "Bonn Hbf", 
+    "number": 767, 
+    "coord": [
+      7.097136, 
+      50.732008
+    ], 
+    "zipcode": "53111"
+  }, 
+  "8002267": {
+    "evaNumber": "8002267", 
+    "city": "Gevelsberg", 
+    "name": "Gevelsberg Hbf", 
+    "number": 2113, 
+    "coord": [
+      7.339931, 
+      51.324437
+    ], 
+    "zipcode": "58285"
+  }, 
+  "8000240": {
+    "evaNumber": "8000240", 
+    "city": "Mainz", 
+    "name": "Mainz Hbf", 
+    "number": 3898, 
+    "coord": [
+      8.25872, 
+      50.001117
+    ], 
+    "zipcode": "55116"
+  }, 
+  "8000134": {
+    "evaNumber": "8000134", 
+    "city": "Trier", 
+    "name": "Trier Hbf", 
+    "number": 6264, 
+    "coord": [
+      6.652453, 
+      49.756846
+    ], 
+    "zipcode": "54292"
+  }, 
+  "8000001": {
+    "evaNumber": "8000001", 
+    "city": "Aachen", 
+    "name": "Aachen Hbf", 
+    "number": 1, 
+    "coord": [
+      6.091499, 
+      50.7678
+    ], 
+    "zipcode": "52064"
+  }
+}
