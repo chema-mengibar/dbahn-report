@@ -1,0 +1,57 @@
+DOcumentación acerca el uso de la APi de http://data.deutschebahn.com
+
+
+Subcripciones:
+https://developer.deutschebahn.com/store/site/pages/subscriptions.jag
+
+
+__________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
+
+STEPS
+__________________________________________________________________________________________________________________________________
+
+
+01 Stations  StaDa-Station_Data - v2
+02 timetable  (Station).evaNumber.number
+
+
+
+
+__________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
+
+APIS
+__________________________________________________________________________________________________________________________________
+
+Fahrplan Free
+
+https://developer.deutschebahn.com/store/apis/info?name=Fahrplan-Free&version=v1&provider=DBOpenData#!/default/get_location_name
+
+https://api.deutschebahn.com/freeplan/v1/location/Bonn
+https://api.deutschebahn.com/freeplan/v1/arrivalBoard/8000309?date=2017-06-11
+https://api.deutschebahn.com/freeplan/v1/departureBoard/8000309?date=2017-06-11
+https://api.deutschebahn.com/freeplan/v1/journeyDetails/136407%252F58818%252F878860%252F393961%252F80%253fstation_evaId%253D8000309
+
+..................................................................................................................................
+
+StaDa-Station_Data - v2
+
+https://developer.deutschebahn.com/store/apis/info?name=StaDa-Station_Data&version=v2&provider=DBOpenData&
+
+/stations
+parameter:
+
+offset
+Offset of the first hit returned in the QueryResult object with respect to all hits returned by the query. If this parameter is omitted, it will be set to 0 internally.
+long
+     
+limit   
+The maximum number of hits to be returned by that query. If 'limit' is set greater than 100, it will be reset to 100 internally and only 100 hits will be returned 
+long
+
+searchstring
+
+https://api.deutschebahn.com/stada/v2/stations?offset=1&limit=10
+
+..................................................................................................................................

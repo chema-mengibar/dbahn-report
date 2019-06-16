@@ -1,0 +1,28 @@
+{
+    "meta":{
+      "routineName":"sv_C0000_api-timetables_01",
+      "version":"1.0",
+      "description":"Captura mediante la api de dbahn Timetables-v1 los trenes de cada estacion hbf",
+      "dateCreation":"2017.06.24",
+      "dateRun":"",
+      "blocked":0
+    },
+    "parameters":{
+      "useIndex": "False",
+      "numberOutputFiles":"singular",
+      "usePrefixInputFile":"False"
+    } ,
+    "input":{
+      "path":"/universe/dt_A0002_filter-infostations_01/data/",
+      "file":"db_stations_filter_HBF.json"
+    },
+    "output":{
+      "path":"/universe/dt_C0000_api-timetables_01/",
+      "extension":".json",
+      "prefix":"timetables",
+      "filters":""
+
+    },
+    "comment":""
+
+}

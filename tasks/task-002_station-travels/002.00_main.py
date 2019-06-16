@@ -53,37 +53,53 @@ def getTravels( station_code, station_id_str, l_time, l_day, direction ):
     "j": "&start=1&boardType="+ direction + "&rtMode=DB-HYBRID"
   }
   compossed_url = "".join(url.values())
+  # print compossed_url
   rsp = requests.get( compossed_url)
   log.debug( 'START_PARSE_URL' )
-  html = rsp.text.encode("utf8")
-  soup = BeautifulSoup(html, "html.parser")
+  html = rsp.text.encode("utf8")   #html = rsp.content
+  soup = BeautifulSoup(html, "lxml") # html.parser
   travelRows = soup.findAll('tr', id=re.compile('^journeyRow_'))
+  
+  for linebreak in soup.find_all('br'):
+    linebreak.extract()
+
   if len(travelRows) > 0 :
     for row in travelRows:
+
       if len(row.find_all("td", class_="platform")) > 0 :
         platform_int =  row.find_all("td", class_="platform")[0].text.replace('\n', '')
       else:
         platform_int = '-'
 
-      if len(  row.find_all("td", class_="ris") ) > 0 :
-        statusActual = row.find_all("td", class_="ris")[0].text.replace('\n', '')
-      else:
-        statusActual = ''
+      alerts = []
+      statusActual = ''
 
+      if len(  row.find_all("td", class_="ris") ) > 0 :
+        delayItems = row.find_all("td", class_="ris")[0].find_all('span',class_=re.compile('^delay'))
+        if len( delayItems ) > 0:
+          statusActual = delayItems[0].text
+
+        alertItems = row.find_all("td", class_="ris")[0].find_all('span',class_=re.compile('^red'))
+        for alert in alertItems:
+          alerts.append( alert.text )
+  
       route = row.find_all("td", class_="route")[0]
       rem_route = route.find(class_="bold")
+
       trainInfo = {
         "trainDate" : 'TID-'+ str( l_day ),
         "trainTime" : 'TIT-'+ row.find_all("td", class_="time")[0].contents[0],
-        "trainName" : 'TIN-'+row.find_all("td", class_="train")[-1].a.contents[0].replace('\n', ''),
+        #BUG: "trainName" : 'TIN-'+ row.find_all("td", class_="train")[-1].a.contents[0].replace('\n', ''),
+        "trainName" : 'TIN-'+ row.find_all("td", class_="train")[-1].a.text.replace('\n', ''),
         "trainLink" : 'TIL-'+ row.find_all("td", class_="train")[-1].a.get('href'),
         "trainPlatform" : 'TIP-'+str(platform_int),
         "trainEnd" : 'TIRE-' + rem_route.extract().text.replace('\n', ''),
         "trainRoute" : 'TIR-'+ route.text.replace('\n', ''),
-        "trainActual" : 'TA-'+statusActual,
+        "trainActual" : 'TA-' + statusActual,
         "trainDirection" : 'TIM-'+direction,
         "stationCode" : 'TSC-'+station_code,
-        "stationId" : 'TSI-'+station_id_str
+        "stationId" : 'TSI-'+station_id_str,
+        "alerts" : 'TAA-' + '@@'.join(alerts)
       }
       log.debug( 'RESULT_ROW ' +  '|'.join( trainInfo.values() ) )
     log.debug( 'END_PARSE_URL RESULT_ROWS_OK'   )

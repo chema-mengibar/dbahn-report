@@ -1,0 +1,38 @@
+[
+    {
+        "lat": 50.793916, 
+        "lon": 7.203029, 
+        "name": "Siegburg/Bonn", 
+        "id": 8005556
+    }, 
+    {
+        "lat": 50.732008, 
+        "lon": 7.097136, 
+        "name": "Bonn Hbf", 
+        "id": 8000044
+    }, 
+    {
+        "lat": 50.8789, 
+        "lon": 7.119304, 
+        "name": "Bonn/K\u00f6ln Flughafen", 
+        "id": 8003330
+    }, 
+    {
+        "lat": 50.683924, 
+        "lon": 7.159558, 
+        "name": "Bonn-Bad Godesberg", 
+        "id": 8001082
+    }, 
+    {
+        "lat": 50.73848, 
+        "lon": 7.127655, 
+        "name": "Bonn-Beuel", 
+        "id": 8001083
+    }, 
+    {
+        "lat": 49.01167, 
+        "lon": 12.099615, 
+        "name": "Ratisbonne", 
+        "id": 8000309
+    }
+]

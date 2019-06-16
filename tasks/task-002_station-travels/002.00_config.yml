@@ -5,6 +5,10 @@ version: 1.0
 params:
   station_number: 8000044
   station_name: Bonn
+params_exaples:
+  - 8000207, Köln
+  - 8000206, Koblenz
+  - 8000044, Bonn
 sources:
   source_name:
     dir: task-001_stations-filtered/

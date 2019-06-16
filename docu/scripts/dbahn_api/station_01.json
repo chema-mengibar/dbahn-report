@@ -1,0 +1,743 @@
+{
+  "offset": 1,
+  "limit": 10,
+  "total": 5363,
+  "result": [
+    {
+      "number": 2,
+      "name": "Aachen-Rothe Erde",
+      "mailingAddress": {
+        "city": "Aachen",
+        "zipcode": "52066",
+        "street": "Beverstr. 48"
+      },
+      "category": 4,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": true,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "yes",
+      "hasMobilityService": "no",
+      "federalState": "Nordrhein-Westfalen",
+      "regionalbereich": {
+        "number": 4,
+        "name": "RB West",
+        "shortName": "RB W"
+      },
+      "aufgabentraeger": {
+        "shortName": "Zweckverband Nahverkehr Rheinland GmbH",
+        "name": "NVR"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.NordrheinWestfalen@deutschebahn.com",
+        "name": "Bahnhofsmanagement Köln"
+      },
+      "szentrale": {
+        "number": 15,
+        "publicPhoneNumber": "0203/30171055",
+        "name": "Duisburg Hbf"
+      },
+      "stationManagement": {
+        "number": 45,
+        "name": "Düsseldorf"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000406,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              6.116475,
+              50.770202
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "KARE",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              6.116487616,
+              50.770274875
+            ]
+          }
+        },
+        {
+          "rilIdentifier": "KAREP",
+          "isMain": false,
+          "hasSteamPermission": true
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Aachen West",
+      "mailingAddress": {
+        "city": "Aachen",
+        "zipcode": "52072",
+        "street": "Republikplatz 1"
+      },
+      "category": 5,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": true,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "no",
+      "hasMobilityService": "no",
+      "federalState": "Nordrhein-Westfalen",
+      "regionalbereich": {
+        "number": 4,
+        "name": "RB West",
+        "shortName": "RB W"
+      },
+      "aufgabentraeger": {
+        "shortName": "Zweckverband Nahverkehr Rheinland GmbH",
+        "name": "NVR"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.NordrheinWestfalen@deutschebahn.com",
+        "name": "Bahnhofsmanagement Köln"
+      },
+      "szentrale": {
+        "number": 15,
+        "publicPhoneNumber": "0203/30171055",
+        "name": "Duisburg Hbf"
+      },
+      "stationManagement": {
+        "number": 45,
+        "name": "Düsseldorf"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000404,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              6.070715,
+              50.78036
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "KAW",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              6.070663828,
+              50.780366012
+            ]
+          }
+        },
+        {
+          "rilIdentifier": "KAW P",
+          "isMain": false,
+          "hasSteamPermission": true
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Aalen Hbf",
+      "mailingAddress": {
+        "city": "Aalen",
+        "zipcode": "73430",
+        "street": "Am Bahnhof 1"
+      },
+      "category": 3,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": true,
+      "hasLockerSystem": true,
+      "hasTaxiRank": true,
+      "hasTravelNecessities": true,
+      "hasSteplessAccess": "yes",
+      "hasMobilityService": "Ja, um Voranmeldung unter 01806 512 512 wird gebeten",
+      "federalState": "Baden-Württemberg",
+      "regionalbereich": {
+        "number": 6,
+        "name": "RB Südwest",
+        "shortName": "RB SW"
+      },
+      "aufgabentraeger": {
+        "shortName": "Nahverkehrsgesellschaft Baden-Württemberg mbH",
+        "name": "NVBW"
+      },
+      "localServiceStaff": {
+        "availability": {
+          "monday": {
+            "fromTime": "06:30",
+            "toTime": "21:00"
+          },
+          "tuesday": {
+            "fromTime": "06:30",
+            "toTime": "21:00"
+          },
+          "wednesday": {
+            "fromTime": "06:30",
+            "toTime": "21:00"
+          },
+          "thursday": {
+            "fromTime": "06:30",
+            "toTime": "21:00"
+          },
+          "friday": {
+            "fromTime": "06:30",
+            "toTime": "21:00"
+          },
+          "saturday": {
+            "fromTime": "06:30",
+            "toTime": "21:00"
+          },
+          "sunday": {
+            "fromTime": "08:00",
+            "toTime": "21:00"
+          },
+          "holiday": {
+            "fromTime": "08:00",
+            "toTime": "21:00"
+          }
+        }
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com",
+        "name": "Bahnhofsmanagement Ulm"
+      },
+      "szentrale": {
+        "number": 35,
+        "publicPhoneNumber": "0731/1021055",
+        "name": "Ulm Hbf"
+      },
+      "stationManagement": {
+        "number": 214,
+        "name": "Ulm"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000002,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              10.096271,
+              48.841013
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "TA",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              10.096255303,
+              48.841079384
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Abensberg",
+      "mailingAddress": {
+        "city": "Abensberg",
+        "zipcode": "93326",
+        "street": "Bahnhofstr. 27"
+      },
+      "category": 6,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": true,
+      "hasTravelNecessities": true,
+      "hasSteplessAccess": "yes",
+      "hasMobilityService": "no",
+      "federalState": "Bayern",
+      "regionalbereich": {
+        "number": 7,
+        "name": "RB Süd",
+        "shortName": "RB S"
+      },
+      "aufgabentraeger": {
+        "shortName": "Bayerische Eisenbahngesellschaft mbH",
+        "name": "BEG"
+      },
+      "timeTableOffice": {
+        "email": "dbs.fahrplan.nordbayern@deutschebahn.com",
+        "name": "Bahnhofsmanagement Regensburg"
+      },
+      "szentrale": {
+        "number": 42,
+        "publicPhoneNumber": "0911/2191055",
+        "name": "Nürnberg Hbf"
+      },
+      "stationManagement": {
+        "number": 231,
+        "name": "Regensburg"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000410,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              11.84662,
+              48.819456
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "MABG",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              11.846640639,
+              48.819447756
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Achern",
+      "mailingAddress": {
+        "city": "Achern",
+        "zipcode": "77855",
+        "street": "Eisenbahnstr. 40"
+      },
+      "category": 4,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": true,
+      "hasLockerSystem": true,
+      "hasTaxiRank": true,
+      "hasTravelNecessities": true,
+      "hasSteplessAccess": "yes",
+      "hasMobilityService": "no",
+      "federalState": "Baden-Württemberg",
+      "regionalbereich": {
+        "number": 6,
+        "name": "RB Südwest",
+        "shortName": "RB SW"
+      },
+      "aufgabentraeger": {
+        "shortName": "Nahverkehrsgesellschaft Baden-Württemberg mbH",
+        "name": "NVBW"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.BadenWuerttemberg@deutschebahn.com",
+        "name": "Bahnhofsmanagement Freiburg"
+      },
+      "szentrale": {
+        "number": 28,
+        "publicPhoneNumber": "0761/2121055",
+        "name": "Freiburg (Breisgau) Hbf"
+      },
+      "stationManagement": {
+        "number": 199,
+        "name": "Freiburg"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000412,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              8.065324,
+              48.63399
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "RAH",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              8.065258566,
+              48.633987319
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Achim",
+      "mailingAddress": {
+        "city": "Achim",
+        "zipcode": "28832",
+        "street": "Zum Achimer Bahnhof 1a"
+      },
+      "category": 4,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": true,
+      "hasLockerSystem": false,
+      "hasTaxiRank": true,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "yes",
+      "hasMobilityService": "no",
+      "federalState": "Niedersachsen",
+      "regionalbereich": {
+        "number": 3,
+        "name": "RB Nord",
+        "shortName": "RB N"
+      },
+      "aufgabentraeger": {
+        "shortName": "Landesnahverkehrsgesellschaft Niedersachsen mbH",
+        "name": "LNVG"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.BremNiedersachsen@deutschebahn.com",
+        "name": "Bahnhofsmanagement Bremen"
+      },
+      "szentrale": {
+        "number": 6,
+        "publicPhoneNumber": "0421-221-4780",
+        "name": "Bremen Hbf"
+      },
+      "stationManagement": {
+        "number": 21,
+        "name": "Bremen / Osnabrück"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000413,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              9.030447,
+              53.01599
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "HACH",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              9.031044149,
+              53.015903286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Achmer",
+      "mailingAddress": {
+        "city": "Bramsche-Achmer",
+        "zipcode": "49565",
+        "street": "Langestraße 7"
+      },
+      "category": 6,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": false,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "no",
+      "hasMobilityService": "no",
+      "federalState": "Niedersachsen",
+      "regionalbereich": {
+        "number": 3,
+        "name": "RB Nord",
+        "shortName": "RB N"
+      },
+      "aufgabentraeger": {
+        "shortName": "Landesnahverkehrsgesellschaft Niedersachsen mbH",
+        "name": "LNVG"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.BremNiedersachsen@deutschebahn.com",
+        "name": "Bahnhofsmanagement Osnabrück"
+      },
+      "szentrale": {
+        "number": 6,
+        "publicPhoneNumber": "0421-221-4780",
+        "name": "Bremen Hbf"
+      },
+      "stationManagement": {
+        "number": 21,
+        "name": "Bremen / Osnabrück"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000414,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              7.94216,
+              52.390479
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "HAMR",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              7.941733527,
+              52.390404774
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Adelebsen",
+      "mailingAddress": {
+        "city": "Adelebsen",
+        "zipcode": "37139",
+        "street": "Bahnhofstr. 27"
+      },
+      "category": 6,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": false,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "partial",
+      "hasMobilityService": "no",
+      "federalState": "Niedersachsen",
+      "regionalbereich": {
+        "number": 3,
+        "name": "RB Nord",
+        "shortName": "RB N"
+      },
+      "aufgabentraeger": {
+        "shortName": "Landesnahverkehrsgesellschaft Niedersachsen mbH",
+        "name": "LNVG"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.BremNiedersachsen@deutschebahn.com",
+        "name": "Bahnhofsmanagement Braunschweig"
+      },
+      "szentrale": {
+        "number": 8,
+        "publicPhoneNumber": "0511/2861055",
+        "name": "Hannover Hbf"
+      },
+      "stationManagement": {
+        "number": 20,
+        "name": "Braunschweig / Göttingen"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000418,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              9.760044,
+              51.57769
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "HADB",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              9.760031286,
+              51.577665195
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Adelschlag",
+      "mailingAddress": {
+        "city": "Adelschlag",
+        "zipcode": "85111",
+        "street": "Bahnhofstrasse 45"
+      },
+      "category": 6,
+      "hasParking": true,
+      "hasBicycleParking": true,
+      "hasLocalPublicTransport": false,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": false,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "partial",
+      "hasMobilityService": "no",
+      "federalState": "Bayern",
+      "regionalbereich": {
+        "number": 7,
+        "name": "RB Süd",
+        "shortName": "RB S"
+      },
+      "aufgabentraeger": {
+        "shortName": "Bayerische Eisenbahngesellschaft mbH",
+        "name": "BEG"
+      },
+      "timeTableOffice": {
+        "email": "DBS.Fahrplan.SuedBayern@deutschebahn.com",
+        "name": "Bahnhofsmanagement Rosenheim"
+      },
+      "szentrale": {
+        "number": 38,
+        "publicPhoneNumber": "089/13081055",
+        "name": "München Hbf"
+      },
+      "stationManagement": {
+        "number": 253,
+        "name": "Rosenheim"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000419,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              11.211443,
+              48.840759
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "MAD",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              11.211438273,
+              48.84075229
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Adelsdorf (Mittelfr)",
+      "mailingAddress": {
+        "city": "Neuhof a.d.Zenn",
+        "zipcode": "90616",
+        "street": "Adelsdorf - St 2413"
+      },
+      "category": 6,
+      "hasParking": true,
+      "hasBicycleParking": false,
+      "hasLocalPublicTransport": true,
+      "hasPublicFacilities": false,
+      "hasLockerSystem": false,
+      "hasTaxiRank": false,
+      "hasTravelNecessities": false,
+      "hasSteplessAccess": "yes",
+      "hasMobilityService": "no",
+      "federalState": "Bayern",
+      "regionalbereich": {
+        "number": 7,
+        "name": "RB Süd",
+        "shortName": "RB S"
+      },
+      "aufgabentraeger": {
+        "shortName": "Bayerische Eisenbahngesellschaft mbH",
+        "name": "BEG"
+      },
+      "timeTableOffice": {
+        "email": "dbs.fahrplan.nordbayern@deutschebahn.com",
+        "name": "Bahnhofsmanagement Nürnberg"
+      },
+      "szentrale": {
+        "number": 42,
+        "publicPhoneNumber": "0911/2191055",
+        "name": "Nürnberg Hbf"
+      },
+      "stationManagement": {
+        "number": 228,
+        "name": "Nürnberg"
+      },
+      "evaNumbers": [
+        {
+          "number": 8000420,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              10.687041,
+              49.474944
+            ]
+          },
+          "isMain": true
+        }
+      ],
+      "ril100Identifiers": [
+        {
+          "rilIdentifier": "NADM",
+          "isMain": true,
+          "hasSteamPermission": true,
+          "geographicCoordinates": {
+            "type": "Point",
+            "coordinates": [
+              10.68714073,
+              49.474768688
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

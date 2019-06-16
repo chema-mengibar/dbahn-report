@@ -1,0 +1,34 @@
+{
+    "meta":{
+      "routineName":"sv_C0001_api-timetables-errors_01",
+      "version":"1.0",
+      "description":"Captura mediante la api de dbahn Timetables-v1 los trenes de cada error del paso anterior.",
+      "dateCreation":"2017.06.25",
+      "dateRun":"",
+      "blocked":0
+    },
+    "parameters":{
+      "useIndex": "False",
+      "numberOutputFiles":"singular",
+      "usePrefixInputFile":"False"
+    } ,
+    "input":{
+      "path_org":"/universe/dt_C0000_api-timetables_01/data/",
+      "file_org":"timetables_170625_errors_mod.json",
+      "path":"/universe/dt_C0000_api-timetables_01/data/",
+      "file":"timetables_e_170625_errors_mod.json"
+    },
+    "output":{
+      "path":"/universe/dt_C0001_api-timetables-errors_01/",
+      "extension":".json",
+      "prefix":"timetables_e",
+      "filters":""
+
+    },
+    "extraFields":{
+      "pathStations":"/universe/dt_A0002_filter-infostations_01/data/",
+      "fileStations":"db_stations_filter_HBF.json"
+    },
+    "comment":"El paso anterior proporciona una lista de objetos json. Sin embargo la construcción de esa lista no es un formato json correcto. Es neceario anyadir coma , detras de cada elemento, y cerrar la lista con [] "
+
+}

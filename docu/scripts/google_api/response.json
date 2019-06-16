@@ -1,0 +1,65 @@
+{
+    "status": "OK", 
+    "rows": [
+        {
+            "elements": [
+                {
+                    "duration": {
+                        "text": "3 Tage, 19 Stunden", 
+                        "value": 327198
+                    }, 
+                    "distance": {
+                        "text": "1.706 km", 
+                        "value": 1706221
+                    }, 
+                    "status": "OK"
+                }, 
+                {
+                    "duration": {
+                        "text": "6 Stunden, 54 Minuten", 
+                        "value": 24847
+                    }, 
+                    "distance": {
+                        "text": "139 km", 
+                        "value": 138945
+                    }, 
+                    "status": "OK"
+                }
+            ]
+        }, 
+        {
+            "elements": [
+                {
+                    "duration": {
+                        "text": "3 Tage, 4 Stunden", 
+                        "value": 274752
+                    }, 
+                    "distance": {
+                        "text": "1.452 km", 
+                        "value": 1452046
+                    }, 
+                    "status": "OK"
+                }, 
+                {
+                    "duration": {
+                        "text": "2 Stunden, 52 Minuten", 
+                        "value": 10322
+                    }, 
+                    "distance": {
+                        "text": "147 km", 
+                        "value": 146514
+                    }, 
+                    "status": "OK"
+                }
+            ]
+        }
+    ], 
+    "origin_addresses": [
+        "Vancouver, Britisch-Kolumbien, Kanada", 
+        "Seattle, Washington, USA"
+    ], 
+    "destination_addresses": [
+        "San Francisco, Kalifornien, USA", 
+        "Victoria, Britisch-Kolumbien, Kanada"
+    ]
+}
