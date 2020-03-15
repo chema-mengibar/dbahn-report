@@ -12,7 +12,7 @@ class Router(object):
         self.rootFolder = 'dbahn-report'
         
         #@todo: change the routes to the absolute project directory path
-        self.root = 'D:\PRO-CODE\_CODE\\' + self.rootFolder +  '\\'
+        self.root = 'D:\PRO-CODE\\' + self.rootFolder +  '\\'
 
         self.universe =  self.root + 'data\\universe\\'
         self.stage =  self.root + 'data\\stage\\'

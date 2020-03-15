@@ -166,25 +166,27 @@ if __name__ == '__main__':
 
   TODAY_NAME = today.strftime('%y.%m.%d')
 
-  # args = sys.argv[1:]
-  # params = { }
-  # for arg in args:
-  #   param = arg.split("=")
-  #   argKey = param[0]
-  #   argValue = str( param[1] )
-  #   params[ argKey ]= argValue
+  args = sys.argv[1:]
+  params = { }
+  for arg in args:
+    param = arg.split("=")
+    argKey = param[0]
+    argValue = str( param[1] )
+    params[ argKey ]= argValue
 
 
   #STEP: modify version?
   configVersion = config['version']
   
-  stationNumberAsStr = str( config['params']['station_number'])
-  stationName = config['params']['station_name'].encode('utf-8')
+  stationNumberAsStr = params['station_number'] # str( config['params']['station_number'])
+  stationName = params['station_name'] #config['params']['station_name'].encode('utf-8')
+
+  print( '>>>>>', stationName, stationNumberAsStr )
 
   #STEP: output-file
 
   outputPath =  router.getRoute( config['target']['route'] ) + config['target']['dir'] 
-  outputFileName = config['target']['file'].replace("$STATION$", u''+stationName ).replace("$DATE$", str( TODAY_NAME ) )
+  outputFileName = config['target']['file'].replace("$STATION$", u''+ stationName ).replace("$DATE$", str( TODAY_NAME ) )
   outputFilePath = outputPath + outputFileName
 
   # create output folder
